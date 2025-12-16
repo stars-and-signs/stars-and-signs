@@ -1,3 +1,14 @@
+**Stars & Signs**
+- [Index](./)
+- [Core Rules](core-rules)
+- [Prottagonist Creation](protagonist-creation)
+- [Classes](classes)
+- [Talents](talents)
+- [Affinity Lists](affinity-lists)
+- [Referee Guide](referee-guide)
+
+---
+
 # Basic Principles
 
 * **Round up.** When a calculation results in a non-integer number, unless otherwise specified, round up to the higher nearest integer.  
