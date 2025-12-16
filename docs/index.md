@@ -9,7 +9,7 @@ title: Stars & Signs
 **Stars & Signs**
 - [Index](./)
 - [Core Rules](core-rules)
-- [Prottagonist Creation](protagonist-creation)
+- [Protagonist Creation](protagonist-creation)
 - [Classes](classes)
 - [Talents](talents)
 - [Affinity Lists](affinity-lists)
