@@ -1,4 +1,5 @@
 ---
+title: Stars & Signs
 ---
 
 > **Current Version:** v0.1-initial  

@@ -1,4 +1,5 @@
 ---
+title: Core Rules
 ---
 
 **Stars & Signs**
