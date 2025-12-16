@@ -18,7 +18,7 @@ layout: default
 
 ---
 
-# Introduction
+## Introduction
 
 Stars & Signs (S&S) is a tabletop role playing game about balancing struggles against evil and the struggles of daily life in a modern day setting. It is inspired by animated and live action series about transforming heroes.
 
