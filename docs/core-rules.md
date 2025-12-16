@@ -4,67 +4,9 @@ Stars & Signs (S\&S) is a tabletop role playing game about balancing struggles a
 
 S\&S is the first iteration of a generic roleplaying game framework, called the Paradigm system. Paradigm is intended to balance fast, action-oriented and narrative first gameplay with mechanical depth and clear, actionable guidance.
 
-# Table of Contents {#table-of-contents}
-
-[Table of Contents	2](#table-of-contents)
-
-[Basic Principles	3](#basic-principles)
-
-[Dice, Boons, and Banes	3](#dice,-boons,-and-banes)
-
-[Actions	5](#actions)
-
-[Checks	8](#checks)
-
-[Reactions & Tests	10](#reactions-&-tests)
-
-[Cooperation	12](#cooperation)
-
-[Scale	13](#scale)
-
-[Extras	15](#extras)
-
-[Traits	16](#traits)
-
-[Counters	18](#counters)
-
-[Abilities	20](#abilities)
-
-[Skills	21](#skills)
-
-[Effort	24](#effort)
-
-[Hope	25](#hope)
-
-[Protagonist Traits	25](#protagonist-traits)
-
-[Despair	30](#despair)
-
-[Wounds	32](#wounds)
-
-[Moods	34](#moods)
-
-[Corruption	36](#corruption)
-
-[Assets	38](#assets)
-
-[Advancement	40](#advancement)
-
-[Classes	43](#classes)
-
-[Magic	43](#magic)
-
-[Inspirational Media	47](#inspirational-media)
-
 # Basic Principles {#basic-principles}
 
-* **Referees and Players.**  
 * **Round up.** When a calculation results in a non-integer number, unless otherwise specified, round up to the higher nearest integer.  
-* **No Secrets.** While protagonists can and should keep secrets from each other, players should not.  
-* **Resolving Protagonist Conflicts.** When one or more protagonists are in conflict or disagreement, the players that control those protagonists determine the outcome. This means that the referee should not call for a check or test when a protagonist acts on another. Instead, the players must come to an agreement regarding the outcome. The referee should defer to the non-acting protagonist in the case where the protagonists in conflict cannot come to an agreement.  
-* **Tone and Setting.**  
-* **Lead with the Fiction.**  
-* **When to Roll Dice.**
 
 # Dice, Boons, and Banes {#dice,-boons,-and-banes}
 
