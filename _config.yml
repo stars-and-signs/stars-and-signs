@@ -1,6 +1,6 @@
 title: Stars & Signs
 description: A tabletop role-playing game about teenage life and cosmic horror
 markdown: kramdown
-remote_theme: pages-themes/slate@v0.2.0
+theme: jekyll-theme-slate
 plugins:
   - jekyll-remote-theme
