@@ -7,8 +7,8 @@ layout: default
 > **Status:** Initial commit of text.
 > **Feedback:** Postpone comment until v0.1-alpha
 
-**Stars & Signs**
-- [Index](./)
+# Stars & Signs
+- **Index**
 - [Core Rules](core-rules)
 - [Protagonist Creation](protagonist-creation)
 - [Classes](classes)

@@ -2,19 +2,14 @@
 title: Core Rules
 ---
 
-**Stars & Signs**
+# **Stars & Signs**
 - [Index](./)
-- Core Rules
+- **Core Rules**
 - [Protagonist Creation](protagonist-creation)
 - [Classes](classes)
 - [Talents](talents)
 - [Affinity Lists](affinity-lists)
 - [Referee Guide](referee-guide)
-
----
-
-## Table of Contents
-{:toc}
 
 ---
 
