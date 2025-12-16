@@ -4,11 +4,11 @@ Stars & Signs (S\&S) is a tabletop role playing game about balancing struggles a
 
 S\&S is the first iteration of a generic roleplaying game framework, called the Paradigm system. Paradigm is intended to balance fast, action-oriented and narrative first gameplay with mechanical depth and clear, actionable guidance.
 
-# Basic Principles {#basic-principles}
+# Basic Principles
 
 * **Round up.** When a calculation results in a non-integer number, unless otherwise specified, round up to the higher nearest integer.  
 
-# Dice, Boons, and Banes {#dice,-boons,-and-banes}
+# Dice, Boons, and Banes
 
 This game relies on the use of a set of polyhedral dice that includes a: d0, d4, d6, d8, d10, and d12. Multiple die of the same size are often added together into a “dice pool”. When a dice pool is rolled, add all the dice together to get the result.
 
@@ -38,7 +38,7 @@ If both Boons and Banes apply to the same die or dice pool, first subtract the n
 * \+2B Circumstance and \-5B Circumstance results in \-3B Circumstance, or roll 5d10 and take the lowest two dice.  
 * \+4B Circumstance and \-4B Circumstance results in \+0B Circumstance, or roll 2d10 and take the result.
 
-# Actions {#actions}
+# Actions
 
 In Stars & Signs, every attempt to change the situation or act on opposition is an Action. Actions are defined by the intent behind them, not the methods used. Two protagonists might take different approaches \- violence, intimidation, or magical control \- but if their goals are the same, they’re taking the same Action type.
 
@@ -139,7 +139,7 @@ For example, setting off fireworks to distract guards while creating cover for a
 * If the goal is to unnerve and surprise the guard, the Action is Hinder.  
 * If the fireworks serve as both, the referee may request multiple Actions for each objective.
 
-# Checks {#checks}
+# Checks
 
 A Check is the fundamental resolution mechanic of Stars & Signs. Whenever a protagonist attempts something that could reasonably fail, they make a Check. Checks combine Circumstance dice, an Ability die, and any additional dice from Advantages or other features to produce a single numerical result. The result then determines failure or the degree of success.
 
@@ -197,7 +197,7 @@ A superior success. The protagonist not only accomplishes their goal, their Acti
 
 Unless the Critical Hit results in an Extra that skips it, the referee then introduces a Complication.
 
-# Reactions & Tests {#reactions-&-tests}
+# Reactions & Tests
 
 A Reaction occurs when a protagonist’s capabilities are being measured without them performing an Action. In other words, a Reaction is invoked when the world exerts pressure on the protagonist and they must endure, notice, recall, or maintain something rather than proactively attempting to change the situation. Reactions are resolved using Tests.
 
@@ -259,7 +259,7 @@ A protagonist’s Reaction Score for a Test depends on their ranks in the most r
 
 The referee may choose to roll Difficulty in secret when the protagonist should not immediately know whether they succeeded or failed, or even if a Test occurred at all.
 
-# Cooperation {#cooperation}
+# Cooperation
 
 When two or more protagonists attempt something together and the entire group will either succeed or fail as a unit, they perform a Cooperation Check. A Cooperation Check has three steps:
 
@@ -295,7 +295,7 @@ Cooperation spreads both benefits and risks. If the Leader’s Check results in:
 * Each member of the group pays any Costs or suffers any Fallout.  
 * The referee uses one Complication for the whole group.
 
-# Scale {#scale}
+# Scale
 
 Scale is an abstract measure of what a protagonist is capable of accomplishing given their narrative positioning, tools, and features. It applies to Actions, Reactions, and challenges. Scale defines the order of magnitude of what is possible. It does not describe the mere relative difficulty of a given task.
 
@@ -335,7 +335,7 @@ Whenever a protagonist scores a Critical Hit (gets a result of 20 or greater on 
 
 If a protagonist succeeds on an Action (the result of their check is at least 10\) and that Action’s Scale exceeds the Scale of the challenge, they gain an Extra. Excess Scale grants only one Extra per check, regardless of the size of the difference.
 
-# Extras {#extras}
+# Extras
 
 Protagonists may gain one or more Extras for a successful Action from features or Critical Hits. Extras represent “above and beyond” outcomes \- additional impact, expanded effect, or secondary benefits that flow naturally from superior force, speed, duration, or scope.
 
@@ -351,7 +351,7 @@ Extras are flexible in what they represent, but they can be thought of in terms 
 
 The referee determines the exact nature of an Extra, but some features may give players effects they may choose to convert their Extras into.
 
-# Traits {#traits}
+# Traits
 
 Traits are short, descriptive statements attached to a character, location, object, scene, or concept.
 
@@ -404,7 +404,7 @@ Protagonists often create Temporary Traits through successful Actions during pla
 
 Many features enhance created Triats by adding extra free invokes, granting additional effects when invoked, or upgrading their alignment to Positive.
 
-# Counters {#counters}
+# Counters
 
 Counters are a structured method for tracking progress towards an evolving outcome, such as accumulating successes or threats advancing towards failure. Counters make complicated, multi-step situations more manageable.
 
@@ -454,7 +454,7 @@ Used to track finite resources that diminish with use. When a Resource Counter f
 
 Similar to a Danger or Defeat Counter but measures the approach of a neutral event. Timer Counters typically advance whenever a protagonist takes an Action, regardless of success or failure. For example, measuring the amount of time left in a Flashback.
 
-# Abilities {#abilities}
+# Abilities
 
 Every protagonist’s capabilities are defined by their nine Abilities. Each Ability captures a broad mode of capability.
 
@@ -499,7 +499,7 @@ An Ability’s rank determines the Ability die added to Checks that use that Abi
 
 Like Circumstance dice, features can grant Boons and Banes to Ability die when making Checks that use that die.
 
-# Skills {#skills}
+# Skills
 
 While Abilities represent more broad aptitudes in groupings of tasks, Skills represent more specific, practiced competencies. Skills describe the approach you’re taking to an Action.
 
@@ -592,7 +592,7 @@ Examples:
 * **Networking.** Build, leverage, and repair long-term relationships and reputations.   
 * **Therapy.** Heal other’s bodies and minds.
 
-# Effort {#effort}
+# Effort
 
 Effort represents a protagonist’s capacity to push themselves beyond their normal limits \- physical exertion, mental strain, or emotional resolve. It is a finite resource stored in three point pools, corresponding to the three Ability categories.
 
@@ -620,7 +620,7 @@ At each Major Milestone, a protagonist’s Effort resets to the corresponding Re
 
 Whenever a protagonist regains Effort through either a Skill compel or Refresh, they also gain an equal number of Skill Points (SP).
 
-# Hope {#hope}
+# Hope
 
 Hope is an abstract representation of what makes a protagonist truly special: their courage, optimism, and conviction. Hope fuels Trait invocations and certain features.
 
@@ -634,7 +634,7 @@ Each protagonist has a pool of 5 Hope points, which is their Hope Refresh. At ea
 
 Protagonists may increase their Hope Refresh by gaining Negative Connections to other protagonists.
 
-# Protagonist Traits {#protagonist-traits}
+# Protagonist Traits
 
 Protagonist Traits define who they are as a character beyond their Abilities and Skills. They shape their identity, relationships, motivations, and even how they remain grounded. Traits regularly evolve throughout play alongside the protagonist’s personal journey.
 
@@ -761,7 +761,7 @@ Protagonists gain 1 free invokes for an Affinity at ranks 2, 4, 6, 8, and 10\.
 
 Protagonists refresh their free Affinity invokes at each Minor Milestone.
 
-# Despair {#despair}
+# Despair
 
 Despair represents the physical strain, psychological pressure, and emotional exhaustion a protagonist accumulates during their adventures. It is their primary damage track. A protagonist is not directly injured as they accumulate Despair, but it pushes them towards harmful states and may eventually lead to lasting Wounds.
 
@@ -795,7 +795,7 @@ A Broken protagonist may be rescued by having an ally compel their Connection to
 
 If a Broken protagonist would suffer Despair, they instead gain one Wound for each Despair slot they would have filled. For example, a Broken protagonist suffering 8 Despair suffers 2 Wounds.
 
-# Wounds {#wounds}
+# Wounds
 
 Wounds represent the lasting repercussions of a protagonist reaching a breaking point, or suffering a lasting injury, trauma, or indignity. Unlike Despair or Moods, which model immediate strain, Wounds track enduring consequences.
 
@@ -845,7 +845,7 @@ Upon gaining the Lingering Wound, the protagonist is removed from the current sc
 
 Lingering Wounds cannot be removed like ordinary Wounds. Instead, a protagonist can replace Reflecting on an Agenda during a Minor Milestone with Reflection on Recovering from their Wound. Upon the Lingering Wound gaining a third Memory, it is cleared.
 
-# Moods {#moods}
+# Moods
 
 Moods are temporary states reflecting acute emotional or psychological instability. Each MOod corresponds to one Ability. Entering a Mood reduces incoming Despair at the cost of dramatically weakening that Ability for a time.
 
@@ -925,7 +925,7 @@ Withdrawn, numb, shut down emotionally.
 
 Example compels: pulling away from others, refusing emotional connection.
 
-# Corruption {#corruption}
+# Corruption
 
 Corruption represents spiritual erosion, magical contamination, and a loss of free will that threatens protagonists wielding magic.
 
@@ -969,7 +969,7 @@ If the remaining protagonists yield or are Defeated, the Consumed protagonist mu
 
 The protagonist is lost. They are retired (as if Defeated) but they become a Signbearer under the referee’s control. They may create a new protagonist at the next Minor Milestone.
 
-# Assets {#assets}
+# Assets
 
 Assets are tools, implements, relationships, or leverage that empowers protagonists to act more effectively. An Asset may be a physical object (a bat, a cellphone), social leverage (blackmail, membership in a club, a title of honor), or an independent ally. Regardless of form, Assets provide mechanical benefits through their Functions.
 
@@ -1056,7 +1056,7 @@ A Stationary Asset cannot be added to a protagonist’s Inventory and must be us
 
 A Compact Asset does not contribute to a protagonist’s Inventory limit for Assets of that type. Running Shoes are Compact Vehicle Assets.
 
-# Advancement {#advancement}
+# Advancement
 
 ## **Minor Milestones**
 
@@ -1119,13 +1119,13 @@ Talents increase protagonist Ability ranks. When a Talent is placed into a slot 
 
 Most Talents may only be taken once. Some Talents specify that they may be taken multiple times and may offer multiple options that may be taken each time.
 
-# Classes {#classes}
+# Classes
 
 Classes define a protagonist’s archetype and long-term thematic direction. A protagonist’s Class is chosen when they are created. When a protagonist gains their Class, they gain that Class’ Core Features.
 
 At each Major Milestone, a protagonist may choose one new Class Feature that they qualify for from their Class.
 
-# Magic {#magic}
+# Magic
 
 ## **Transformation**
 
@@ -1205,7 +1205,7 @@ Charms are small magical trinkets that a protagonist can wear even outside their
 
 Optionally, the referee may grant protagonists materials which they can use to craft Charms without having a Talent.
 
-# Inspirational Media {#inspirational-media}
+# Inspirational Media
 
 ## **Magical Girl**
 
