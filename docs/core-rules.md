@@ -11,6 +11,23 @@ title: Core Rules
 - [Affinity Lists](affinity-lists)
 - [Referee Guide](referee-guide)
 
+# **Table of Contents**
+
+- [Basic Principles](#basic-principles)
+- [Actions](#actions)
+- [Checks](#checks)
+- [Reactions & Tests](#reactions-and-tests)
+- [Cooperation](#cooperation)
+- [Scale](#scale)
+- [Extras](#extras)
+- [Traits](#traits)
+- [Counters](#counters)
+- [Abilities](#abilities)
+- [Skills](#skills)
+- [Effort](#effort)
+- [Hope](#hope)
+- [Protagonist Traits](#protagonist-traits)
+
 ---
 
 # Basic Principles

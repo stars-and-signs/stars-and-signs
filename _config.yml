@@ -1,8 +1,6 @@
 title: Stars & Signs
 description: A tabletop role-playing game about teenage life and cosmic horror
 markdown: kramdown
-theme: jekyll-theme-slate
-baseurl: "/docs"
-url: "https://stars-and-signs.github.io/stars-and-signs/"
+remote_theme: pages-themes/slate@v0.2.0
 plugins:
-  - jekyll-remote-theme
+- jekyll-remote-theme
