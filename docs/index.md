@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 > **Current Version:** v0.1-initial  
