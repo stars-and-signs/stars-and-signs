@@ -99,3 +99,7 @@ Cooperation spreads both benefits and risks. If the Leader’s Check results in:
 
 * Each member of the group pays any Costs or suffers any Fallout.  
 * The referee uses one Complication for the whole group.
+
+---
+
+**[← Back to Table of Contents](../core_rules)** | **[Next: Actions →](core_rules/02-actions.md)**
