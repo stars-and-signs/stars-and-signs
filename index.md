@@ -8,12 +8,12 @@ layout: default
 
 # Stars & Signs
 - **Index**
-- [Core Rules](core-rules)
-- [Protagonist Creation](protagonist-creation)
-- [Classes](classes)
-- [Talents](talents)
-- [Affinity Lists](affinity-lists)
-- [Referee Guide](referee-guide)
+- [Core Rules](docs/core-rules)
+- [Protagonist Creation](docs/protagonist-creation)
+- [Classes](docs/classes)
+- [Talents](docs/talents)
+- [Affinity Lists](docs/affinity-lists)
+- [Referee Guide](docs/referee-guide)
 
 ---
 
