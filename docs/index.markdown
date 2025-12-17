@@ -1,5 +1,4 @@
 ---
-title: Stars & Signs
 layout: default
 ---
 
