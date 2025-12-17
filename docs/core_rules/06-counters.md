@@ -51,3 +51,7 @@ Used to track finite resources that diminish with use. When a Resource Counter f
 ### **Timer**
 
 Similar to a Danger or Defeat Counter but measures the approach of a neutral event. Timer Counters typically advance whenever a protagonist takes an Action, regardless of success or failure. For example, measuring the amount of time left in a Flashback.
+
+---
+
+**[← Back to Table of Contents](../core_rules)** | **[Next: Actions →](core_rules/02-actions.md)**

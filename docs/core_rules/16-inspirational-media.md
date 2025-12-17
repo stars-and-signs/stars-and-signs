@@ -24,3 +24,7 @@ layout: page
 * The Summer Hikaru Died  
 * Summertime Render  
 * Supernatural
+
+---
+
+**[← Back to Table of Contents](../core_rules)** | **[Next: Actions →](core_rules/02-actions.md)**

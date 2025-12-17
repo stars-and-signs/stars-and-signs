@@ -163,4 +163,4 @@ Unless the Critical Hit results in an Extra that skips it, the referee then intr
 
 ---
 
-**[← Back to Table of Contents](01-table-of-contents)** | **[Previous: Dice, Boons, and Banes](02-dice-boons-banes)** | **[Next: Checks →](04-checks)**
+**[← Dice, Boons, and Banes](01-dice-boons-banes.md)** | **[Next: Actions →](core_rules/02-actions.md)**

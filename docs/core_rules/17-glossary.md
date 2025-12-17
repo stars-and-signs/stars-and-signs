@@ -13,3 +13,7 @@ layout: page
 * **Upgrade.** When a value is upgraded, it is increased to the specified value unless it is already above that value.  
 * **Refresh.** If a protagonist’s resource is refreshed, they regain any of that resource that they spent. If they have more of that resource than their refresh value, they lose the excess.  
 * **Regain.** A protagonist can often regain a limited amount of a resource. The amount of a resource gained this way cannot make the protagonist exceed their refresh value in that resource. Any excess is lost.
+
+---
+
+**[← Back to Table of Contents](../core_rules)** | **[Next: Actions →](core_rules/02-actions.md)**

@@ -43,3 +43,7 @@ Protagonists can spend Hope to invoke Traits. Some features provide additional u
 Each protagonist has a pool of 5 Hope points, which is their Hope Refresh. At each Major Milestone, a protagonist resets their number of Hope points to their Hope Refresh. Protagonists can also regain Hope by compelling Traits.
 
 Protagonists may increase their Hope Refresh by gaining Negative Connections to other protagonists.
+
+---
+
+**[← Back to Table of Contents](../core_rules)** | **[Next: Actions →](core_rules/02-actions.md)**

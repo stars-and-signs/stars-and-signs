@@ -209,3 +209,7 @@ If the remaining protagonists yield or are Defeated, the Consumed protagonist mu
 ### **Fall to Darkness**
 
 The protagonist is lost. They are retired (as if Defeated) but they become a Signbearer under the referee’s control. They may create a new protagonist at the next Minor Milestone.
+
+---
+
+**[← Back to Table of Contents](../core_rules)** | **[Next: Actions →](core_rules/02-actions.md)**

@@ -94,3 +94,7 @@ Examples:
 * **Insight.** Understand other’s feelings and personality.  
 * **Networking.** Build, leverage, and repair long-term relationships and reputations.   
 * **Therapy.** Heal other’s bodies and minds.
+
+---
+
+**[← Back to Table of Contents](../core_rules)** | **[Next: Actions →](core_rules/02-actions.md)**

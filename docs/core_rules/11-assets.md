@@ -88,3 +88,7 @@ A Stationary Asset cannot be added to a protagonist’s Inventory and must be us
 ### **Compact**
 
 A Compact Asset does not contribute to a protagonist’s Inventory limit for Assets of that type. Running Shoes are Compact Vehicle Assets.
+
+---
+
+**[← Back to Table of Contents](../core_rules)** | **[Next: Actions →](core_rules/02-actions.md)**

@@ -46,3 +46,7 @@ An Ability’s rank determines the Ability die added to Checks that use that Abi
 | 10 | d12 |
 
 Like Circumstance dice, features can grant Boons and Banes to Ability die when making Checks that use that die.
+
+---
+
+**[← Back to Table of Contents](../core_rules)** | **[Next: Actions →](core_rules/02-actions.md)**

@@ -57,3 +57,7 @@ Extras are flexible in what they represent, but they can be thought of in terms 
 * A resulting Trait has an additional free invoke (Duration).
 
 The referee determines the exact nature of an Extra, but some features may give players effects they may choose to convert their Extras into.
+
+---
+
+**[← Back to Table of Contents](../core_rules)** | **[Next: Actions →](core_rules/02-actions.md)**

@@ -81,3 +81,7 @@ Once a protagonist makes a Wish, they are Defeated. The referee determines what 
 Charms are small magical trinkets that a protagonist can wear even outside their Transformation. Charms often act as Assets and may convey subtle magical powers that can be used unnoticed in the mundane world. Some Talents grant the ability to create Charms.
 
 Optionally, the referee may grant protagonists materials which they can use to craft Charms without having a Talent.
+
+---
+
+**[← Back to Table of Contents](../core_rules)** | **[Next: Actions →](core_rules/02-actions.md)**

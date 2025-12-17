@@ -181,3 +181,7 @@ Protagonists gain 1 free invokes for an Affinity at ranks 2, 4, 6, 8, and 10\.
 | 10 | 5 |
 
 Protagonists refresh their free Affinity invokes at each Minor Milestone.
+
+---
+
+**[← Back to Table of Contents](../core_rules)** | **[Next: Actions →](core_rules/02-actions.md)**

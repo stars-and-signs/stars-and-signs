@@ -23,3 +23,7 @@ Talents increase protagonist Ability ranks. When a Talent is placed into a slot 
 ### **Repeating Talents**
 
 Most Talents may only be taken once. Some Talents specify that they may be taken multiple times and may offer multiple options that may be taken each time.
+
+---
+
+**[← Back to Table of Contents](../core_rules)** | **[Next: Actions →](core_rules/02-actions.md)**
