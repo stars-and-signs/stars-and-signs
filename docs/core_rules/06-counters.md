@@ -14,6 +14,12 @@ When the last slot is filled, a Counter is completed. The repercussions of which
 
 Often, points towards a Counter will be determined by rolling one or more d10s.
 
+## **Temporary Slots**
+
+Some features and effects can cause Counters to gain Temporary Counter slots. A Counter cannot have more than 10 slots total, including Temporary slots.
+
+Temporary Counter slots are lost upon being filled.
+
 ## **Counter Types**
 
 ### **Progress**
@@ -36,9 +42,9 @@ Used when a threat, hazard, or opposition is emerging or advancing toward a mino
 
 Used to measure the protagonists’ proximity to a major failure that isn’t tied to personal harm. When a Defeat Counter fills, something crucial is lost. Examples:
 
-* Fire consuming a protagonist’s home  
-* An artifact being corrupted beyond repair  
-* Cultists summoning a world-ending demon
+* Fire consuming a protagonist’s home
+* A critical artifact being corrupted beyond repair
+* Cultists summoning a world-ending cosmic horror
 
 ### **Resource**
 
@@ -51,6 +57,10 @@ Used to track finite resources that diminish with use. When a Resource Counter f
 ### **Timer**
 
 Similar to a Danger or Defeat Counter but measures the approach of a neutral event. Timer Counters typically advance whenever a protagonist takes an Action, regardless of success or failure. For example, measuring the amount of time left in a Flashback.
+
+### **Inventory**
+
+Used to track specific items, such as Memories or Assets. Unlike other Counter slots, which are either filled or unfilled, each Inventory slot holds a specific game object which should be tracked.
 
 ---
 

@@ -34,9 +34,13 @@ Most Assets have a Quality of 1 or better. When used for something other than on
 
 ## **Asset Scale**
 
-Assets may upgrade the Scale of Actions and Reactions made using them. This upgraded Scale may allow a protagonist to overcome challenges outside of what they could normally achieve.
+Assets may upgrade one or more of the Scales of Actions and Reactions made using them. This upgraded Scale may allow a protagonist to overcome challenges outside of what they could normally achieve.
 
-For example, a mundane Baseball Bat grants Scale 1 for Eliminate (Violence) but a Magical Sword, even while wielded by a normal human, offers Scale 3 Eliminate (Violence).
+For example:
+
+* A Baseball Bat upgrades the Potency of Violence Actions to 1.
+* A Magical Sword, even while wielded by a normal human, upgrades the Potency of Violence Actions to 3.
+* A Car upgrades the Speed of Traversal Actions made using it to 2.
 
 ## **Asset Types**
 

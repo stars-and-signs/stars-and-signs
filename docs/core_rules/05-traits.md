@@ -47,7 +47,7 @@ Some Positive or Neutral Traits possess free invokes, which protagonists can exp
 
 ## **Compelling Traits**
 
-A protagonist may compel a Trait to regain 1 Hope. To compel a Trait, a protagonist must take an Action or make a choice that significantly complicates their situation. The complication must be meaningful enough to merit Fallout from the referee and the Trait must reasonably justify the complication.
+A protagonist may compel a Trait to clear 1 filled Hope slot. To compel a Trait, a protagonist must take an Action or make a choice that significantly complicates their situation. The complication must be meaningful enough to merit Fallout from the referee and the Trait must reasonably justify the complication.
 
 ## **Creating Traits**
 
@@ -67,6 +67,14 @@ Protagonist Traits come in several forms:
 * **Anchors.** What grounds the protagonist.  
 * **Affinities.** Finer specializations.
 
+## Memories and Advancing 
+
+At Minor Milestones, protagonists gain Memories by Reflecting on their Aspects, Connections, and Agendas. Protagonists have a 5 slot Inventory Counter for Memories. When a protagonist gains a Memory, they note the Trait associated with that Memory.
+
+When a protagonist fills their fifth Memory Counter, they clear it and may advance any number of Aspects, Connections, and Agendas related to the cleared Memories. To advance a Trait, update it to reflect changes to a protagonist's goals, personality, and relationships.
+
+When a protagonist advances a Trait, they gain a benefit depending on that Trait.
+
 ## **Aspects**
 
 Each protagonist has three Aspects, which are assigned at creation. Aspects are Permanent, Neutral Traits that express core truths about the character. The three Aspects are:
@@ -81,7 +89,7 @@ The referee may attempt to compel a protagonist’s Aspects. This works like a t
 
 ### **Advancing Aspects**
 
-When an Aspect advances (see Advancement), they gain one rank in a Magical Affinity of their choice.
+When an Aspect advances, they gain one rank in a Magical Affinity of their choice.
 
 ## **Connections**
 
@@ -89,9 +97,9 @@ A Connection is a Permanent Neutral Trait describing the relationship between on
 
 Connections may be Positive, Negative, or Neutral Traits.
 
-### **Bonus Hope Refresh**
+### **Bonus Hope**
 
-A protagonist’s Hope Refresh increases by 1 for each Negative Connection they have to other protagonists, to a maximum of 10 Hope Refresh.
+When a protagonist's Hope Refreshes, they gain 1 Temporary Hope for each Negative Connection they have to other protagonists.
 
 Protagonists do not benefit from Negative Connections to non-protagonist characters.
 
@@ -101,9 +109,9 @@ When a Connection advances, the protagonist gains \+1 Affinity to the target of 
 
 The alignment of the Connection changes based on the Memories associated with that advancement (see Advancement).
 
-* If the memories are mostly positive, the Connection moves one step towards Positive (a Negative Connection becomes Neutral; a Neutral Connection becomes Positive).  
-* If the memories are mostly negative, the Connection moves one step towards Negative (a Positive Connection becomes Neutral; a Neutral Connection becomes Negative).  
-* If the memories are mostly neutral or there is an equal mix, the Connection remains unchanged.
+* If the Memories are mostly positive, the Connection moves one step towards Positive (a Negative Connection becomes Neutral; a Neutral Connection becomes Positive).  
+* If the Memories are mostly negative, the Connection moves one step towards Negative (a Positive Connection becomes Neutral; a Neutral Connection becomes Negative).  
+* If the Memories are mostly neutral or there is an equal mix, the Connection remains unchanged.
 
 ## **Agendas**
 
@@ -125,9 +133,7 @@ When an Agenda advances, the protagonist may choose one of the following benefit
 
 ### **Completing Agendas**
 
-Unlike Aspects or Connections, Agendas often reach clear narrative conclusions. If an Agenda concludes before all its Memory slots are filled, the remaining Memories may represent the narrative and emotional aftermath or consequences of the Agenda’s resolution.
-
-For example, a protagonist searching for their missing parents finds them, but two Memory slots remain. These slots could be filled by processing the reunion or grappling with the unresolved emotions this reunion entails.
+Unlike Aspects or Connections, Agendas often reach clear narrative conclusions. When an Agenda advances after reaching its narrative conclusion, replace it with a new one.
 
 ## **Anchors**
 

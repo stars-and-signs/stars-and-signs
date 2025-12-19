@@ -32,17 +32,17 @@ Whenever a protagonist regains Effort through either a Skill compel or Refresh, 
 
 # Hope
 
-Hope is an abstract representation of what makes a protagonist truly special: their courage, optimism, and conviction. Hope fuels Trait invocations and certain features.
+Hope is a quantification representation of what makes a protagonist truly special: their courage, optimism, and conviction. Hope fuels Trait invocations and certain features. Each protagonist has a 5 slot Hope Resource Counter. Each slot is worth 1 Hope.
 
 ## **Spending Hope**
 
 Protagonists can spend Hope to invoke Traits. Some features provide additional uses for Hope. Hope can also be spent to decrease a protagonist’s Despair (see Despair).
 
-## **Refreshing and Regaining Hope**
+## **Regaining Hope**
 
-Each protagonist has a pool of 5 Hope points, which is their Hope Refresh. At each Major Milestone, a protagonist resets their number of Hope points to their Hope Refresh. Protagonists can also regain Hope by compelling Traits.
+At each Major Milestone, each protagonistt clears their filled Hope slots. A protagonist may also regain Hope by compelling Traits.
 
-Protagonists may increase their Hope Refresh by gaining Negative Connections to other protagonists.
+Protagonists may gain Temporary Hope by gaining Negative Connections to other protagonists.
 
 ---
 

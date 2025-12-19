@@ -38,15 +38,15 @@ If a Broken protagonist would suffer Despair, they instead gain one Wound for ea
 
 # Wounds
 
-Wounds represent the lasting repercussions of a protagonist reaching a breaking point, or suffering a lasting injury, trauma, or indignity. Unlike Despair or Moods, which model immediate strain, Wounds track enduring consequences.
+Wounds represent the lasting repercussions of a protagonist reaching a breaking point, or suffering a lasting injury, trauma, or indignity. Unlike Despair, which models immediate strain, Wounds track enduring consequences. Wounds come in three types: Physical, Mental, or Social.
 
-Wounds are Temporary Negative Traits that apply a \-1B Circumstance penalty to all Checks using Abilities of the same category as the Wound. Wounds come in three types: Physical, Mental, or Social.
+Wounds are Temporary Negative Traits that can have a severity of Minor, Major, or Critical. Minor Wounds apply a \-1B Circumstance penalty to all Checks using Abilities of the same category as the Wound, as is typical for a Negative Trait. Major Wounds apply an additional \-1B Circumstance, for a total of \-2B. Critical Wounds apply \-3B Circumstance total.
 
-Wounds remain until they are cleared or they escalate into a Lingering Wound.
+Wounds remain until they are cleared.
 
 ## **Suffering Wounds**
 
-Wounds occur when suffering Despair while Broken or when suffering Fallout while taking an Action with high Stakes.
+Wounds occur when suffering Despair while Broken or when suffering Fallout while taking an Action or Reaction with high Stakes.
 
 ## **Recovery**
 
@@ -184,11 +184,11 @@ The referee gets a Temptation for each protagonist that reaches a Minor Mileston
 
 For each protagonist that reaches a Major Milestone with at least 1 filled Corruption slot, the referee gains a Corruption Fallout which they can use against that protagonist before the next Major Milestone. The severity of this Corruption Fallout depends on the level of Corruption. It may be Minor, Major, or Severe.
 
-The Referee Guide has more information about using Temptations and Corruption Fallout against protagonists.
+The Referee Guide has more information about the effects of Temptations.
 
 ## **Consumed**
 
-A protagonist that gains Corruption while already having 10 filled Corruption slot becomes Consumed until the next Minor Milestone, at which point they choose one of the following options. Once they choose an option, they clear 5 filled Corruption slots.
+A protagonist that gains Corruption while already having 10 filled Corruption slot becomes Consumed, at which point they choose one of the following options. Once they choose an option, they clear 5 filled Corruption slots and end the Consumed state.
 
 ### **Burn Anchor**
 
