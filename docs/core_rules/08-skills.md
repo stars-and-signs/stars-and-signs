@@ -10,7 +10,7 @@ Every Ability has three associated Skills, giving each protagonist a total of 27
 
 ## **Skill Ranks**
 
-Each protagonist starts with 0 ranks in every Skill unless they gain ranks in that Skill during protagonist creation. Ranks may be increased at Major Milestones by spending Skill Points (SP).
+Each protagonist starts with 0 ranks in every Skill unless they gain ranks in that Skill during protagonist creation. Ranks may be increased at Major Milestones by spending Experience Points (XP).
 
 ## **Skill Modifiers**
 

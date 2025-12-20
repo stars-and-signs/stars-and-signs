@@ -6,15 +6,9 @@ layout: page
 
 Talents are special features that enhance protagonist capabilities in ways other than sheer numerical bonuses. There are a wide range of Talents with varying requirements and benefits.
 
-### **Experience Points and Gaining Talents**
+### **Talent Slots and Gaining Talents**
 
-At each Minor Milestone, the referee awards each protagonist 1 Experience Point (XP) for each challenge the group has overcome since the last Minor Milestones. Protagonists that are part of the group but did not participate in the challenge are still awarded the XP.
-
-At a Major Milestone, protagonists may spend XP to gain Talents. For every 10 XP spent, the protagonist gains a Talent of their choice for which they qualify.
-
-### **Talent Slots**
-
-All Talents must be placed into an unoccupied Talent slot. Protagonists unlock Talent slots by increasing their Skill ranks. Protagonists gain a new Talent slot at ranks 2, 4, 6, 8, and 10\.
+Each Skill has five Talent slots, which are unlocked at Skill ranks 2, 4, 6, 8, and 10. Each slot can hold up to one Talent associated with that Skill. At each Minor Milestone, a protagonist may choose any number of Talents to fill their unoccupied Talent slots.
 
 ### **Ability Rank Increase**
 

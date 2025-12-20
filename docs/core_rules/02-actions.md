@@ -161,6 +161,8 @@ A superior success. The protagonist not only accomplishes their goal, their Acti
 
 Unless the Critical Hit results in an Extra that skips it, the referee then introduces a Complication.
 
+# Extended Actions
+
 ---
 
 **[← Dice, Boons, and Banes](01-dice-boons-banes.md)** | **[Next: Actions →](core_rules/02-actions.md)**

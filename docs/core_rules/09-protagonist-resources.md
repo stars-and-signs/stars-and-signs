@@ -26,9 +26,9 @@ Protagonists regain Effort by compelling Skills, as described in the Skills sect
 
 At each Major Milestone, a protagonist’s Effort resets to the corresponding Refresh value. Protagonists 
 
-## **Gaining Skill Points**
+## **Gaining Experience Points**
 
-Whenever a protagonist regains Effort through either a Skill compel or Refresh, they also gain an equal number of Skill Points (SP).
+Whenever a protagonist regains Effort through either a Skill compel or Refresh, they also gain an equal number of Experience Points (XP).
 
 # Hope
 

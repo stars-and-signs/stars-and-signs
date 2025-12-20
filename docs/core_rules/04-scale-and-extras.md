@@ -46,7 +46,7 @@ If a protagonist succeeds on an Action (the result of their check is at least 10
 
 # Extras
 
-Protagonists may gain one or more Extras for a successful Action from features or Critical Hits. Extras represent “above and beyond” outcomes \- additional impact, expanded effect, or secondary benefits that flow naturally from superior force, speed, duration, or scope.
+Protagonists may gain one or more Extras for a successful Action from features or Critical Hits. Extras represent “above and beyond” outcomes \- additional impact, expanded effect, or secondary benefits that flow naturally from superior force, speed, range, or scope.
 
 Extras are flexible in what they represent, but they can be thought of in terms of increasing one of the Scale factors:
 

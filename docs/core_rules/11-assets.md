@@ -79,7 +79,7 @@ Protective Assets can be used to absorb the consequences of failure. A Protectiv
 
 ### **Restricted**
 
-Restricted Assets have requirements to be used. For example, they may require certain Skill ranks or Affinities.
+Restricted Assets have requirements to be used. For example, they may require certain Skill ranks, Affinities, or Proficiencies.
 
 ### **Bulky**
 

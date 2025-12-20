@@ -34,13 +34,15 @@ A Broken protagonist may be rescued by having an ally compel their Connection to
 
 ### **Vulnerability**
 
-If a Broken protagonist would suffer Despair, they instead gain one Wound for each Despair slot they would have filled. For example, a Broken protagonist suffering 8 Despair suffers 2 Wounds.
+If a Broken protagonist would suffer Despair, they instead gain a Wound with a number of ranks equal to the number of Despair slots they would have filled. The Wound is of the same type as the source of the Despair. For example, a Broken protagonist suffering 8 Despair from a physical source suffers a rank 2 Physical Wound. See Wounds below for more information.
 
 # Wounds
 
 Wounds represent the lasting repercussions of a protagonist reaching a breaking point, or suffering a lasting injury, trauma, or indignity. Unlike Despair, which models immediate strain, Wounds track enduring consequences. Wounds come in three types: Physical, Mental, or Social.
 
-Wounds are Temporary Negative Traits that can have a severity of Minor, Major, or Critical. Minor Wounds apply a \-1B Circumstance penalty to all Checks using Abilities of the same category as the Wound, as is typical for a Negative Trait. Major Wounds apply an additional \-1B Circumstance, for a total of \-2B. Critical Wounds apply \-3B Circumstance total.
+Wounds are Temporary Negative Traits that, like other such Traits, confer -1B Circumstance to Checks made using Abilities of the same type (Physical Wounds affect Checks made using Might, Grace, or Endurance Skills, for example).
+
+In addition to the typical features of a Trait and a type, each Wound possesses a rank of 1 or higher. Wounds confer an additional \-1B Circumstance for each rank above 1. For example, a rank 3 Mental Wound confers -3B Circumstance to Checks made using Mental Skills.
 
 Wounds remain until they are cleared.
 
@@ -50,19 +52,21 @@ Wounds occur when suffering Despair while Broken or when suffering Fallout while
 
 ## **Recovery**
 
-Wounds can be cleared with time and effort. At each Minor Milestone, each protagonist may attempt to clear one Wound of their choice by taking a Reaction with a Test corresponding to the Wound type:
+Wounds can be cleared through use of the Bolster Action. A protagonist can atttempt to clear their own Wounds or the Wounds of another protagonist in this way. Clearing a Wound has a Potency equal to the Wound's rank. The Skill used for clearing a Wound with an Action depends on the Wound's type \- Physical and Mental Wounds can be cleared with a successful Bolster (Therapy) Check while Social Wounds can be cleared with a successful Bolster (Networking) Action.
+
+Protagonists may be able to recover from their Wounds automatically over time. At each Minor Milestone, each protagonist may attempt to clear one Wound of their choice by taking a Recovery Reaction with a Test corresponding to the Wound type:
 
 * Physical Wounds \- Recovery (Vitality) Test  
 * Mental Wounds \- Recovery (Resolve) Test  
 * Social Wounds \- Recovery (Networking) Test
 
-Failure does not confer any additional negative consequences besides missing the opportunity to clear a Wound.
+The protagonist's Reaction must still meet the corresponding Potency for the Wound. Failure does not confer any additional negative consequences besides missing the opportunity to clear a Wound.
 
-Protagonists may also attempt to clear a Wound from themselves or allies by taking a Bolster Action. Physical and Mental Wounds can be cleared with a successful Bolster (Therapy) Check while Social Wounds can be cleared with a successful Bolster (Networking) Check.
+To clear Wounds with high Potency, a protagonist may need to take Extended Actions. Wounds have a Healing Progress Counter with a number of slots equal to its Potency. A protagonist may progress this Counter with a successful Aciton or Reaction if that Action or Reaction has a Potency of at least one less than the Potency of the Wound. For example, a rank 4 Physical Wound has 4 Healing slots. Each slot is filled with a successful Bolster (Therapy) Action or Recovery (Vitality) Reaction. 
 
 ## **Defeat**
 
-A protagonist can suffer up to five Wounds total simultaneously. If a protagonist would exceed five Wounds, they are Defeated. Upon Defeat, the protagonist’s player chooses one of the following outcomes
+A protagonist that would gain more than 5 total ranks of Wounds simultaneously is Defeated. Upon Defeat, the protagonist’s player chooses one of the following outcomes
 
 ### **Retirement**
 
@@ -80,11 +84,7 @@ A vanished protagonist does not return unless both the referee and player explic
 
 ### **Lingering Wound**
 
-Instead of removal from the story, the protagonist may choose to gain a Lingering Wound, which is a Permanent Negative Trait. It matches the category of the last Wound received (Physical, Mental, or Emotional) before Defeat. The referee determines the specific narrative expression of this Trait.
-
-Upon gaining the Lingering Wound, the protagonist is removed from the current scenario and returns at the next narrative opportunity or Minor Milestone. All non-Lingering Wounds the protagonist has of the same type as the Lingering Wound are cleared.
-
-Lingering Wounds cannot be removed like ordinary Wounds. Instead, a protagonist can replace Reflecting on an Agenda during a Minor Milestone with Reflection on Recovering from their Wound. Upon the Lingering Wound gaining a third Memory, it is cleared.
+Instead of removal from the story, the protagonist may choose to gain a new Permanent Negative Trait related to their highest ranking Wound (the referee chooses one on a tie). This Trait may only be removed by creating an Agenda dedicated to doing so.
 
 # Moods
 
