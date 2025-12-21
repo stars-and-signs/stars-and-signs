@@ -15,5 +15,3 @@ layout: page
 * **Regain.** A protagonist can often regain a limited amount of a resource. The amount of a resource gained this way cannot make the protagonist exceed their refresh value in that resource. Any excess is lost.
 
 ---
-
-**[← Back to Table of Contents](../core_rules)** | **[Next: Actions →](core_rules/02-actions.md)**

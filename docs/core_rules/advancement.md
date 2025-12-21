@@ -38,5 +38,3 @@ At each Major Milestone, protagonists may spend any amount of accrued XP to incr
 For example, a protagonist that wishes to increase their Craft Skill rank from 3 to 5 must first spend 20 XP to increase their rank to 4\. They may then spend 25 XP to increase it to 5\. They would need to spend a total of 45 XP\.
 
 ---
-
-**[← Back to Table of Contents](../core_rules)** | **[Next: Actions →](core_rules/02-actions.md)**

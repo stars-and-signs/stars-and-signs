@@ -1,12 +1,11 @@
 ---
 layout: page
 ---
-
 # Magic
 
 ## **Transformation**
 
-The ability to Transform into a magical state is defining for protagonists in Stars & Signs. Protagonists may Transform by taking 1d10 Corruption, no Action required.
+The ability to Transform into a magical state is defining for protagonists in Stars & Signs. Protagonists may Transform by filling 1 Corruption slot, no Action required.
 
 While a protagonist is Transformed, they gain access to their Magical Talents, Relic, and Regalia.
 
@@ -21,11 +20,11 @@ A protagonist’s Transformation lasts until one or more of the following criter
 
 When a protagonist Transforms, they gain access to their Energy Resource Counter. Each protagonist’s Energy Counter has 5 slots, each of which are worth 5 Energy. A protagonist’s Energy Counter is used to fuel their Magic.
 
-A protagonist clears all the slots of their Energy Counter when their Transformation ends. They can also clear 5 Energy slots by taking 1d10 Corruption.
+A protagonist clears all the slots of their Energy Counter when their Transformation ends. They can also clear 5 Energy slots by filling 1 Corruption slot.
 
 ## **Upgrading Scale**
 
-When a protagonist takes an Action while Transformed, they can spend 1d10 Energy to upgrade that Action’s Scale to 3\. To do so, the protagonist must describe how they use one of their Magical Affinities to meaningfully aid in that Action.
+When a protagonist takes an Action while Transformed, they can spend 1 Energy slot to upgrade that Action’s Scale to 3\. To do so, the protagonist must describe how they use one of their Magical Affinities to meaningfully aid in that Action.
 
 Physical Resist Tests that a protagonist makes while Transformed are made at Scale 3 due to their Regalia.
 
@@ -39,24 +38,18 @@ Each protagonist has one or more Magical Affinities. Magical Affinities can only
 
 Protagonists gain Magical Affinities when they are created and then may increase their ranks in these Affinities by advancing their Aspects.
 
-### **Signature Moves**
-
-Each protagonist has a set of Signature Moves they can perform while Transformed. When a protagonist is created, they gain two Signature Moves, as described in the Protagonist Creation rules.
-
-To create a Signature Move, a protagonist chooses an Action type and Skill combination and describes how they use their Magical Affinities to perform a specific course of action involving that combination. They then give this Signature Move a name.
-
-Whenever a protagonist performs the described Action, they may clear their filled Energy slots and gain 1d10 Corruption to upgrade the Scale of that Action to 4\.
-
 ### **The Catch**
 
-Each protagonist’s magic has a drawback, limitation, cost, or weakness called a Catch. Protagonists design their own Catch at creation. A Catch can be almost anything, but it should represent some sort of magical complication which requires 
+Each protagonist’s magic has a drawback, limitation, cost, or weakness called a Catch. Protagonists design their own Catch at creation. A Catch can be almost anything, but it should represent some sort of complicatting factor.
 
-A protagonist’s Catch may be compelled by either the referee or protagonist. When a Catch is compelled, the protagonist may choose one:
+A protagonist’s Catch may be compelled by either the protagonist or referee. When a Catch is compelled, the protagonist may choose one:
 
 * Clear one Energy slot  
-* Gain one Temporary Energy slot. Temporary Energy slots can be used like Energy slots but when they are filled, they disappear. A protagonist can have up to 5 Temporary Energy slots at a time. All Temporary Energy slots are cleared at each Minor Milestone.
+* Gain one Temporary Energy slot.
 
 When a referee compels a protagonist’s Catch, they may accept or refuse. If they refuse, they gain 1d10 Corruption.
+
+A protagonist may choose to create a more severe Catch. In which case, they may increase the number of Energy slots regained or Temporary Energy slots gained by 1 or even 2, depending on the severity. The referee has final say over the severity level of a Catch.
 
 ## **Relic**
 
@@ -83,5 +76,3 @@ Charms are small magical trinkets that a protagonist can wear even outside their
 Optionally, the referee may grant protagonists materials which they can use to craft Charms without having a Talent.
 
 ---
-
-**[← Back to Table of Contents](../core_rules)** | **[Next: Actions →](core_rules/02-actions.md)**

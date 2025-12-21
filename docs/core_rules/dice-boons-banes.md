@@ -38,4 +38,3 @@ If both Boons and Banes apply to the same die or dice pool, first subtract the n
 
 ---
 
-**[← Back to Table of Contents](../core_rules)** | **[Next: Actions →](core_rules/02-actions)**

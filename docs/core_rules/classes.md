@@ -9,5 +9,3 @@ Classes define a protagonist’s archetype and long-term thematic direction. A p
 At each Major Milestone, a protagonist may choose one new Class Feature that they qualify for from their Class.
 
 ---
-
-**[← Back to Table of Contents](../core_rules)** | **[Next: Actions →](core_rules/02-actions.md)**
