@@ -28,17 +28,19 @@ When a protagonist takes an Action while Transformed, they can spend 1 Energy sl
 
 Physical Resist Tests that a protagonist makes while Transformed are made at Scale 3 due to their Regalia.
 
-## **Magical Affinities**
+## **Magical Gifts**
+
+Each protagonist has a unique Magical Gift, which describes what is unique about their powers.
+
+### **Magical Affinities**
 
 Each protagonist has one or more Magical Affinities. Magical Affinities can only be invoked while Transformed. While Transformed, protagonists have a great deal of freedom in how they use their Magical Affinities, being limited only by their creativity and Scale they’re able to achieve.
 
 Protagonists gain Magical Affinities when they are created and then may increase their ranks in these Affinities by advancing their Aspects.
 
-## **Magical Gifts**
+### **The Catch**
 
-Each protagonist has a unique Magical Gift, which describes what is unique about their powers.
-
-Each protagonist’s magic has a drawback, limitation, cost, or weakness called a Catch. Protagonists design their own Catch at creation. A Catch can be almost anything, but it should represent some sort of complicatting factor.
+Each protagonist’s magic has a drawback, limitation, cost, or weakness called a Catch. Protagonists design their own Catch at creation. A Catch can be almost anything, but it should represent some sort of complicating factor.
 
 A protagonist’s Catch may be compelled by either the protagonist or referee. When a Catch is compelled, the protagonist may choose one:
 
@@ -63,20 +65,9 @@ Regalia is the magical clothing that protagonists don during their Transformatio
 
 ## **Wishes**
 
-Once per Major Milestone, when a protagonist uses their magic, they may make a Wish to attempt to achieve something monumental. The protagonist must describe the desired outcome of this Wish in 7 words or less.
+A protagonist may, just once, use their magic to make a Wish. A Wish is capable of accomplishing goals even greater than what can be accomplished at Scale 5\. For example, a Wish may allow a protagonist to alter historical events, revive the dead, or even harm a Great One. The referee should work carefully with the protagonist to determine what exactly can be accomplished given the protagonist’s Gift before they make it. 
 
-When a protagonist makes a Wish, their Action gains +1 to one Scale of their choice. This can increase that Scale to a maximum of 5. Once the protagonist completes the Check, they immediately suffer the consequences of filling their 10th Corruption slot.
-
-The effects of a Scale 5 Action may be grand, for example, a protagonist may:
-
-* Instantly defeat a Signbearer.
-* Harm the avatar of a Great One.
-* Harm a weakened Sorcerer.
-* Change a historical event.
-* Revive someone who has recently died.
-* Heal all of someone's Wounds.
-
-Despite this, a Wish has limitations. It cannot undo the effects of another Wish, nor can it heal the repercussions of one. It also cannot undo the repercussions of filling 10 Corruption slots.
+Once a protagonist makes a Wish, they are Defeated. The referee determines what happens to the protagonist \- they may become an abstract concept, lose their magic forever, or simply burn out their life fueling their overwhelming magic. Nothing may prevent or undo this fate once a Wish is made, not even another Wish.
 
 ## **Charms**
 
