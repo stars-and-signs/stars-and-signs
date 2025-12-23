@@ -242,8 +242,6 @@
 * Apathy  
 * Resentment
 
-## 
-
 ## Magical
 
 * Fire (2 Fire)  
