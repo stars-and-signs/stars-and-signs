@@ -18,6 +18,7 @@ S&S is the first iteration of a generic roleplaying game framework, called the P
 
 - **Index**
 - Core Rules
+  - [Basic Principals](docs/core_rules/basic-principals.md)
   - [Dice, Boons, and Banes](docs/core_rules/dice-boons-banes)
   - [Actions](docs/core_rules/actions)
   - [Checks](docs/core_rules/checks)

@@ -2,10 +2,6 @@
 layout: page
 ---
 
-# Basic Principles
-
-* **Round up.** When a calculation results in a non-integer number, unless otherwise specified, round up to the higher nearest integer.  
-
 # Dice, Boons, and Banes
 
 This game relies on the use of a set of polyhedral dice that includes a: d0, d4, d6, d8, d10, and d12. Multiple die of the same size are often added together into a “dice pool”. When a dice pool is rolled, add all the dice together to get the result.
