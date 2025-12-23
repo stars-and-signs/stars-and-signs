@@ -3,53 +3,89 @@ layout: page
 ---
 # Magic
 
-## **Transformation**
+## Energy Counter
 
-The ability to Transform into a magical state is defining for protagonists in Stars & Signs. Protagonists may Transform by filling 1 Corruption slot, no Action required.
+Each protagonist has an Energy Resource Counter with 5 Energy slots, which they use to power their Magic.
 
-While a protagonist is Transformed, they gain access to their Magical Talents, Relic, and Regalia.
+At each Minor Milestone, each protagonist clears all of their filled Energy slots.
 
-A protagonist’s Transformation lasts until one or more of the following criteria are met:
+## Transformation
 
-* They choose to end it (no Action required)  
-* They reach a Major Milestone  
-* They become Broken, Consumed, or Defeated  
-* They fill their last Energy Counter slot
+A protagonist may assume their magical identity by filling 1 Corruption slot. While Transformed, a protagonist dons their Regalia, replacing their other clothing; conjures their Relic; and is able to use their Magical Talents.
 
-## **Energy Counter**
+A Transformed protagonist remains in this state until one of the following conditions:
 
-When a protagonist Transforms, they gain access to their Energy Resource Counter. Each protagonist’s Energy Counter has 5 slots, each of which are worth 5 Energy. A protagonist’s Energy Counter is used to fuel their Magic.
+* They become Consumed, Broken, or are Defeated.
+* They suffer the Dispel Fallout.
+* They reach a Minor Milestone.
+* They choose to end their Transformation (no Action required).
 
-A protagonist clears all the slots of their Energy Counter when their Transformation ends. They can also clear 5 Energy slots by filling 1 Corruption slot.
+When the Transformation ends, a protagonist's Relic vanishes, their Regalia reverts to their normal clothing, and loses access to their Magical Talents.
 
-## **Upgrading Scale**
+## Magical Affinities
 
-When a protagonist takes an Action while Transformed, they can spend 1 Energy slot to upgrade that Action’s Scale to 3\. To do so, the protagonist must describe how they use one of their Magical Affinities to meaningfully aid in that Action.
+Each protagonist has one or more Affinities from the Magical Affinity list. Magical Affinities can only be invoked while Transformed.
 
-Physical Resist Tests that a protagonist makes while Transformed are made at Scale 3 due to their Regalia.
+While Transformed, a protagonist may freely manipulate the subjects of their Magical Affinities, so long as they're able to achieve the appropriate Scale for the described Action. For example, a protagonist with Affinity for Fire Magic may conjure flames to attack an enemy, even when none is present.
 
-## **Magical Affinities**
+A protagonist does not need to invoke a Magical Affinity in order to manipulate it.
 
-Each protagonist has one or more Magical Affinities. Magical Affinities can only be invoked while Transformed. While Transformed, protagonists have a great deal of freedom in how they use their Magical Affinities, being limited only by their creativity and Scale they’re able to achieve.
+Protagonists gain Magical Affinities when they are created and then may increase their ranks in these Affinities when they Advance their Traits.
 
-Protagonists gain Magical Affinities when they are created and then may increase their ranks in these Affinities by advancing their Aspects.
+## Magical Actions
 
-## **Magical Gifts**
+When a protagonist takes an Action while Transformed, if they are utilizing one of their Magical Affinities in some way, they may spend 1 Energy to upgrade the Potency of that Action to 3.
 
-Each protagonist has a unique Magical Gift, which describes what is unique about their powers.
+## Magical Gifts
+
+Each protagonist has a unique Magical Gift, which describes how they regain Energy. During protagonist creation, choose one of the following Gifts.
+
+### Overdrive
+
+You gain your magic in one large burst but once you're out, you'll need to wait to cool down.
+
+Increase the number of slots in your Energy Counter by 5.
+
+### Emotional Battery
+
+Your magic derives from your flowing emotions.
+
+While Transformed, you can enter a Mood of your choice (no Action required). When you do, you gain a number of Temporary Energy slots equal to half your ranks in the Ability associated with that Mood.
+
+### Binding Vow
+
+Your convictions power your magic.
+
+Choose one of your Conviction Affinities or Heart Aspect. When you compel the chosen Trait, you gain 5 Temporary Energy slots in addition to the other benefits.
+
+If you refuse a compel for the chosen Trait, fill all of your unfilled Energy slots. You cannot gain Temporary Energy slots or clear filled Energy slots until the next Minor Milestone.
+
+### Wind-Up
+
+You need to prepare to get full use of your magic via a ritual or time to charge up.
+
+Choose a Skill in which you have at least a +1 modifier. You can use the Create Action with that Skill to charge your power:
+
+* **Critical Hit.** Gain 5 Temporary Energy slots and an Extra - clear your filled Temporary Energy slots.
+* **Hit.** Gain 5 Temporary Energy slots.
+* **Graze.** Mitigation Cost - gain 1 Temporary Energy slot.
+* **Miss.** Harm Fallout - gain 1 Corruption.
+
+### Dark Seed
+
+You can gain enormous amounts of magical power in exchange for darkening your spirit.
+
+While Transformed, you can suffer 1d10 Corruption to gain 5 Temporary Energy (no Action required). The number of d10s rolled to determine the amount of Corruption suffered increases by 1 each time you use this feature before a Minor Milestone.
+
+### Catch
+
+Your magic has a weakness, drawback, or limitation that applies under specific circumstances.
+
+Describe a situation where your magic is limited and choose a Cost. Whenever you use your magic in that scenario, you suffer the chosen Cost and gain 1 Temporary Energy.
 
 Each protagonist’s magic has a drawback, limitation, cost, or weakness called a Catch. Protagonists design their own Catch at creation. A Catch can be almost anything, but it should represent some sort of complicatting factor.
 
-A protagonist’s Catch may be compelled by either the protagonist or referee. When a Catch is compelled, the protagonist may choose one:
-
-* Clear one Energy slot  
-* Gain one Temporary Energy slot.
-
-When a referee compels a protagonist’s Catch, they may accept or refuse. If they refuse, they gain 1d10 Corruption.
-
-A protagonist may choose to create a more severe Catch. In which case, they may increase the number of Energy slots regained or Temporary Energy slots gained by 1 or even 2, depending on the severity. The referee has final say over the severity level of a Catch.
-
-## **Relic**
+## Relic
 
 While Transformed, protagonists are equipped with a Relic. A Relic is a magical artifact unique to the protagonist that represents their personality and magic. They design their Relic during creation and use it to channel their magic.
 
@@ -57,11 +93,11 @@ Nothing can truly separate a protagonist from their Relic and if it is lost, it 
 
 Relics have no specific functionality, but many Talents confer benefits to them.
 
-## **Regalia**
+## Regalia
 
-Regalia is the magical clothing that protagonists don during their Transformation. During protagonist creation, each player chooses a benefit for their Regalia, which is conferred to all protagonists while Transformed.
+Regalia is the magical clothing that protagonists don during their Transformation. While Transformed, a protagonist's Regalia grants them immense protection from physical harm. A Transformed protagonist has Potency 3 for Physical Resist Reactions.
 
-## **Wishes**
+## Wishes
 
 Once per Major Milestone, when a protagonist uses their magic, they may make a Wish to attempt to achieve something monumental. The protagonist must describe the desired outcome of this Wish in 7 words or less.
 
@@ -78,7 +114,7 @@ The effects of a Scale 5 Action may be grand, for example, a protagonist may:
 
 Despite this, a Wish has limitations. It cannot undo the effects of another Wish, nor can it heal the repercussions of one. It also cannot undo the repercussions of filling 10 Corruption slots.
 
-## **Charms**
+## Charms
 
 Charms are small magical trinkets that a protagonist can wear even outside their Transformation. Charms often act as Assets and may convey subtle magical powers that can be used unnoticed in the mundane world. Some Talents grant the ability to create Charms.
 

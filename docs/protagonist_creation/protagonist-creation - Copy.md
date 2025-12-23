@@ -3,76 +3,6 @@
 
 # Protagonist Creation
 
-To create a protagonist, follow these steps in order.
-
-## Identity & Motivation
-
-Give your protagonist a name and describe their pronouns. These may be placeholders for now.
-
-## Personality
-
-### Aspects
-
-Design a personality for your protagonist by creating a Heart, Mask, and Shadow Aspect.
-
-If you need inspiration, draw three tarot cards at random, assigning one to your Heart, your Mask, and your Shadow. Use the meaning of these cards to generate your Aspects.
-
-### Conviction & Tendency
-
-Choose one Affinity from the Conviction list and one from the Tendency list.
-
-## Class
-
-Choose a Class. You gain the Core Features for that Class.
-
-### Class Agenda
-
-Create an Agenda using your Class’s suggested Agendas for inspiration.
-
-## Background
-
-### Background Skills
-
-Choose three different Skills. Gain 2 ranks in each chosen Skill.
-
-### School Affinities
-
-Choose three Affinities from the Academic, Sports, and Artistic Affinities lists in any combination. You gain 2 ranks in each of the chosen Affinities.
-
-### Extracurricular Affinities
-
-Choose two Affinities from the Otaku, Outdoors, Social, and Practical Affinity lists in any combination. You gain 2 ranks in each of the chosen Affinities.
-
-### Background Anchor
-
-Create an Anchor based on your protagonist’s interests. Choose either a hobby or group related to that interest.
-
-## Social Identity
-
-### Style
-
-Choose three adjectives from the following table to describe your protagonist's style. Choose a single row no more than twice. For each adjective, you gain two of the corresponding Mana.
-
-| Descriptors                      | Mana (+2) |
-| :------------------------------- | :-------- |
-| Warm, vibrant, bold              | Fire      |
-| Cool, fluid, soothing            | Water     |
-| Light, open, shimmering          | Air       |
-| Grounded, solid, rich            | Earth     |
-| Ethereal, old-fashioned, quirky  | Spirit    |
-| Bright, pure, uplifting          | Light     |
-| Deep, mysterious, dramatic       | Dark      |
-| Organic, cozy, wild              | Nature    |
-| Modern, structured, professional | Metal     |
-
-### Subculture
-
-Choose an Affinity from the Cultures list. You gain 3 ranks in the chosen Affinity.
-
-### Relationship Anchor
-
-Create an Anchor based on a relationship you have with another character or group of characters. Determine the nature of this relationship by determining if your Light or Dark Mana is higher. If your Light is higher, the relationship is positive. Conversely, if your Dark is higher, the relationship is adversarial. If they are equal, the relationship is fraught and alternates between the two.
-
 ## Astrological Sign
 
 Each protagonist has a sun, moon, and ascendent astrological sign. This can be chosen by considering the protagonist’s date of birth or by choosing them. For each of their signs, the protagonist gains \+1 ranks to two different Abilities and one Mana, as shown in the Sign Bonuses Table.
@@ -158,7 +88,59 @@ Choose one animal as your Inner Animal. Your choice grants you \+2 ranks to one 
 | **Dog**     | Loyalty, any Social Affinity        | Light |
 | **Pig**     | Friendship, any Otaku Affinity      | Dark  |
 
-## Interpersonal Dynamics
+## Personality
+
+### Aspects
+
+Create a Heart, Mask, and Shadow Aspect. If you need help, draw three tarot cards and interpret them.
+
+### Conviction and Tendency
+
+Choose one Affinity from the Conviction list and one from the Tendency list. You gain one rank in each.
+
+## Interests & Hobbies
+
+### Skills
+
+Choose three different Skills. Gain 2 ranks in each chosen Skill.
+
+### Favorite School Subject Affinities
+
+Choose three Affinities from the Academic, Sports, and Artistic Affinities lists in any combination. You gain 2 ranks in each of the chosen Affinities.
+
+### Extracurricular Affinities
+
+Choose two Affinities from the Otaku, Outdoors, Social, and Practical Affinity lists in any combination. You gain 2 ranks in each of the chosen Affinities.
+
+### Interest Anchor
+
+Create an Anchor based on your protagonist’s interests. Choose either a hobby or group related to that interest.
+
+## Wardrobe
+
+### Style
+
+Choose three of the following styles for your protagonist’s clothes. You gain two Mana for each chosen style. You can choose the same style up to twice.
+
+| Style                         | Mana (+2) |
+| :---------------------------- | :-------- |
+| Warm, vibrant, bold           | Fire      |
+| Cool, fluid, soothing         | Water     |
+| Light, open, shimmering       | Air       |
+| Grounded, solid, rich         | Earth     |
+| Ethereal, luminous, unearthly | Spirit    |
+| Bright, pure, uplifting       | Light     |
+| Deep, mysterious, dramatic    | Dark      |
+| Organic, vibrant, wild        | Nature    |
+| Modern, constructed, shiny    | Metal     |
+
+### Subculture
+
+Choose an Affinity from the Cultures list. You gain 3 ranks in the chosen Affinity.
+
+## Relationships
+
+### Synastry
 
 From amongst the Fire, Earth, Water, and Air Mana, determine which you have the most ranks in. If one or more are tied, choose one from those options. This becomes your Compatibility Element.
 
@@ -166,16 +148,32 @@ For each other protagonist, compare your Compatibility Element to theirs. If you
 
 | Compatibility Element | Compatible | Incompatible |
 | --------------------- | ---------- | ------------ |
-| **Air**               | Fire       | Eath         |
-| **Earth**             | Water      | Air          |
-| **Fire**              | Air        | Water        |
-| **Water**             | Earth      | Air          |
+| Air                   | Fire       | Eath         |
+| Earth                 | Water      | Air          |
+| Fire                  | Air        | Water        |
+| Water                 | Earth      | Air          |
 
-## Magic
+### Relationship Anchor
 
-### Gift
+Create an Anchor based on a relationship you have with another character or group of characters. Determine the nature of this relationship by determining if your Light or Dark Mana is higher. If your Light is higher, the relationship is positive. Conversely, if your Dark is higher, the relationship is adversarial. If they are equal, the relationship is fraught and alternates between the two.
 
-Choose one Magical Gift as the source of your magical power.
+## Skills Ranks
+
+* Distribute 100 XP
+* Cannot increase Skill rank beyond 6 using this XP  
+* Lose any unspent XP
+
+## Talents
+
+Choose a Talent for each of your Talent slots. Choose at least two of these Talents from the Magical Talents list.
+
+## Class
+
+Choose a Class. You gain the Core Features for that Class. Choose one additional Class Feature for which you qualify from that Class.
+
+Create an Agenda using your Class’s suggested Agendas for inspiration.
+
+## Magical Identity
 
 ### Relic
 
@@ -206,22 +204,16 @@ Determine which of the following Elements you have the most Mana in and createt 
 
 ### Magical Affinities
 
-Spend your Mana by choosing Affinities from the Magical Affinities list. Each rank costs two Mana of any type. In addition, the first rank of a Magical Affinity costs two Mana of a specific type combination, as listed in the Magical Affinity list.
+* Spend all of your Mana by picking Affinities from the Magical Affinities list  
+* Each rank costs 2 Mana of any type  
+* The first rank in an Affinity costs additional two Mana of the type listed next to that Affinity in the list.  
+* You can create your own with the referee’s help (the first rank still requires a total of four Mana, choose at least two that are thematic to the Affinity you create)
+
+### Gift
+
+Choose one Magical Gift as the source of your magical power.
 
 ## Finishing Up
 
-### Skill ranks
-
-You gain 100 XP which you must immediately spend to gain Skill ranks. Any XP you do not spend is lost after this step. You can distribute this XP to any number of Skills but you cannot increase a Skill's rank beyond 6 during this step.
-
-### Talents
-
-Choose a Talent for each of your unoccupied Talent slots. Choose at least two of these Talents from the Magical Talents list.
-
-### Calculating Effort
-
-Calculate each of your Effort Refresh values by adding together your ranks in the corresponding Abilities.
-
-### Description
-
-Write a brief description for your protagonist in their everyday attire and when they're Transformed.
+* Calculate Effort  
+* Create a name, pronouns, and description

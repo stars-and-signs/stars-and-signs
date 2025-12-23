@@ -21,6 +21,8 @@ Draw attention to a character, ask them how they feel or introduce a flashback.
 
 ### Threaten
 
+Either force a protagonist to make a Reaction. This may target uninvolved protagonists or non-protagonist characters.
+
 Test a protagonist to avoid a Consequence or bring a bystander into the conflict.
 
 ### Pressure
@@ -41,9 +43,8 @@ Something changes about the scene or the opposition recovers or repositions.
 
 ## Fallout
 
-- The referee can use Fallout when a protagonist Misses or the fiction demands it.
+- The referee can use Fallout when a protagonist Misses, they fail a Test, or the fiction demands it.
 - For example, a protagonist that jumps off a tall building will certainly face Fallout, regardless if they achieve whatever goal they’re aiming for.
-- These are the types of Fallout:
 
 ### Harm
 
@@ -68,3 +69,7 @@ Introduce a new, significant obstacle.
 ### Backlash
 
 The protagonist’s actions backfire.
+
+### Dispel
+
+The protagonist's Transformation or an ongoing magical effect they have created ends.
