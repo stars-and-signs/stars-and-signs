@@ -88,7 +88,7 @@ After the Action type is established, the fictional method the protagonist is us
 * One protagonist throws a heavy object at its legs to trip it, they make a Might (Strength) check.  
 * The other taunts it to break its concentration, they make a Guile (Manipulation) check.
 
-Both are HInder Actions, but they use different Abilities and Skills based on the methods used.
+Both are Hinder Actions, but they use different Abilities and Skills based on the methods used.
 
 ## **Adjudicating Edge Cases**
 
