@@ -12,24 +12,28 @@ When a protagonist gains their Class, they gain all of the Core Class Features f
 
 ## Class Ranks
 
-A protagonist has 1 to 10 ranks in their Class.
+A protagonist has 1 to 10 ranks in their Class. At each Major Milestone, a protagonist gains a rank in their Class.
 
-## Major Class Features
+## Archetypes
 
-At each Major Milestone, a protagonist gains a rank in their Class and gains the Major Class Features for that rank in their Class.
+Each Class has a number of Archetypes, which describe different expressions of the Class's themes.
+
+## Class and Archetype Features
+
+When a protagonist gains a rank in their Class, they gain the features for their Class and Archetype at that rank.
 
 ## Class Descriptions
 
 |Class|Description|Core Features|
 |---|---|---|
 |[Brute](docs/classes/brute.md)|Excels at physical challenges|Aggressive, Aura|
+|Confidant||Gossip, Friendly|
+|Enthusiast||Hyperfixations, Crafty|
+|Icon||Captivating, Eclectic|
+|Patrician||Endowed, Connected|
+|Prodigy||Inspirational, Competent|
+|Seeker|Excels at mental challenges.|Observant, Archivist|
 |Stray||Lucky, Resourceful|
 |Survivor||Prepared, Tenacious|
-|Seeker|Excels at mental challenges.|Observant, Archivist|
-|Patrician||Wealthy, Connected|
-|Idol||Personas, Beloved|
-|Enthusiast||Hyperfixations, Crafty|
-|Prodigy||Inspirational, Competent|
-|Confidant||Gossip, Friendly|
 
 ---
