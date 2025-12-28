@@ -169,7 +169,7 @@ Choose a Talent for each of your Talent slots. Choose at least two of these Tale
 
 ## Class
 
-Choose a Class. You gain the Core Features for that Class. Choose one additional Class Feature for which you qualify from that Class.
+Choose a Class. You gain the Core Features for that Class.
 
 Create an Agenda using your Class’s suggested Agendas for inspiration.
 

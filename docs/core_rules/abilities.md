@@ -10,19 +10,21 @@ Abilities are grouped into three categories \- Physical, Mental, and Emotional. 
 
 The nine Abilities are:
 
-**Physical**
+## List of Abilities and Skills
+
+### Physical
 
 * **Might.** Force, raw strength, and physical speed.  
 * **Grace.** Balance, precision, reflexes, and finesse.  
 * **Endurance.** Stamina, toughness, and health.
 
-**Mental**
+### Mental
 
 * **Intellect.** Analysis, knowledge, problem-solving, and technical skills.  
 * **Cunning.** Cleverness, improvisation, and trickery.  
 * **Will.** Mental resilience, patience, focus, and studiousness.
 
-**Emotional**
+### Emotional
 
 * **Confidence.** Presence, likability, assertiveness, and bold projection.  
 * **Guile.** Misdirection, emotional manipulation, and decorum.  

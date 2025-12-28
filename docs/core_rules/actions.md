@@ -106,6 +106,4 @@ For example, setting off fireworks to distract guards while creating cover for a
 * If the goal is to unnerve and surprise the guard, the Action is Hinder.  
 * If the fireworks serve as both, the referee may request multiple Actions for each objective.
 
-## Extended Actions
-
 ---

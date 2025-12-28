@@ -85,14 +85,14 @@ Examples:
 
 ### **Guile**
 
-* **Deception.** Lie or impersonate.   
+* **Deception.** Lie or impersonate.
 * **Diplomacy.** Broker deals, exhibit good manners, speak eloquently.  
 * **Manipulation.** Emotionally control, gaslight, bully.
 
 ### **Empathy**
 
 * **Insight.** Understand other’s feelings and personality.  
-* **Networking.** Build, leverage, and repair long-term relationships and reputations.   
+* **Networking.** Build, leverage, and repair long-term relationships and reputations.
 * **Therapy.** Heal other’s bodies and minds.
 
 ---
