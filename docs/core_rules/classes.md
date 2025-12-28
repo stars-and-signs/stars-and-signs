@@ -22,6 +22,14 @@ At each Major Milestone, a protagonist gains a rank in their Class and gains the
 
 |Class|Description|Core Features|
 |---|---|---|
-|Tough|Excels at physical challenges.|Aggressive, Aura|
+|[Brute](docs/classes/brute.md)|Excels at physical challenges|Aggressive, Aura|
+|Stray||Lucky, Resourceful|
+|Survivor||Prepared, Tenacious|
+|Seeker|Excels at mental challenges.|Observant, Archivist|
+|Patrician||Wealthy, Connected|
+|Idol||Personas, Beloved|
+|Enthusiast||Hyperfixations, Crafty|
+|Prodigy||Inspirational, Competent|
+|Confidant||Gossip, Friendly|
 
 ---

@@ -33,7 +33,7 @@ Create an Agenda using your Class’s suggested Agendas for inspiration.
 
 ### Background Skills
 
-Choose three different Skills. Gain 2 ranks in each chosen Skill.
+Choose three different [[Skills]]. Gain 2 ranks in each chosen Skill.
 
 ### School Affinities
 
@@ -81,29 +81,29 @@ Each protagonist has a sun, moon, and ascendent astrological sign. This can be c
 
 |                 | Sun                  | Moon                  | Ascendent             |
 | :-------------- | :------------------- | :-------------------- | :-------------------- |
-| **Aries**       | Might, Endurance     | Might, Cunning        | Endurance, Guile      |
+| **Aries**       | Might; Endurance     | Might; Cunning        | Endurance; Guile      |
 |                 | Fire                 | Dark                  | Metal                 |
-| **Taurus**      | Grace, Guile         | Endurance, Confidence | Grace, Confidence     |
+| **Taurus**      | Grace; Guile         | Endurance; Confidence | Grace; Confidence     |
 |                 | Earth                | Dark                  | Metal                 |
-| **Gemini**      | Grace, Cunning       | Intellect, Will       | Cunning, Empathy      |
+| **Gemini**      | Grace; Cunning       | Intellect; Will       | Cunning; Empathy      |
 |                 | Air                  | Light                 | Metal                 |
-| **Cancer**      | Will, Empathy        | Grace, Empathy        | Will, Confidence      |
+| **Cancer**      | Will; Empathy        | Grace; Empathy        | Will; Confidence      |
 |                 | Water                | Dark                  | Spirit                |
-| **Leo**         | Confidence, Guile    | Might, Empathy        | Might, Confidence     |
+| **Leo**         | Confidence; Guile    | Might; Empathy        | Might; Confidence     |
 |                 | Fire                 | Light                 | Metal                 |
-| **Virgo**       | Grace, Intellect     | Grace, Will           | Intellect, Confidence |
+| **Virgo**       | Grace; Intellect     | Grace; Will           | Intellect; Confidence |
 |                 | Earth                | Dark                  | Nature                |
-| **Libra**       | Empathy, Guile       | Grace, Endurance      | Cunning, Guile        |
+| **Libra**       | Empathy; Guile       | Grace; Endurance      | Cunning; Guile        |
 |                 | Air                  | Light                 | Spirit                |
-| **Scorpio**     | Cunning, Will        | Cunning, Confidence   | Endurance, Will       |
+| **Scorpio**     | Cunning; Will        | Cunning; Confidence   | Endurance; Will       |
 |                 | Water                | Dark                  | Spirit                |
-| **Sagittarius** | Might, Intellect     | Might, Guile          | Intellect, Guile      |
+| **Sagittarius** | Might; Intellect     | Might; Guile          | Intellect; Guile      |
 |                 | Fire                 | Light                 | Nature                |
-| **Capricorn**   | Endurance, Intellect | Might, Precision      | Might, Will           |
+| **Capricorn**   | Endurance; Intellect | Might; Precision      | Might; Will           |
 |                 | Earth                | Dark                  | Spirit                |
-| **Aquarius**    | Intellect, Cunning   | Intellect, Empathy    | Endurance, Cunning    |
+| **Aquarius**    | Intellect; Cunning   | Intellect; Empathy    | Endurance; Cunning    |
 |                 | Air                  | Light                 | Nature                |
-| **Pisces**      | Confidence, Empathy  | Endurance, Empathy    | Will, Guile           |
+| **Pisces**      | Confidence; Empathy  | Endurance; Empathy    | Will; Guile           |
 |                 | Water                | Light                 | Nature                |
 
 ## Zodiac Animal
@@ -114,30 +114,30 @@ Choose an outer animal and if it is Heavenly, Worldly, or Mortal. You gain \+1 t
 
 |             | Heavenly              | Worldly               | Mortal                |
 | :---------- | :-------------------- | :-------------------- | :-------------------- |
-| **Rat**     | Cunning, Endurance    | Cunning, Grace        | Confidence, Intellect |
-|             | Spirit, Water, Nature | \+2 Nature, Water     | Metal, Water, Nature  |
-| **Ox**      | Might, Endurance      | Might, Empathy        | Endurance, Guile      |
-|             | Spirit, Earth, Metal  | Nature, Earth, Metal  | \+2 Metal, Earth      |
-| **Tiger**   | Grace, Might          | Cunning, Might        | Guile, Cunning        |
-|             | \+2 Spirit, Fire      | Nature, Fire, Spirit  | Metal, Fire, Spirit   |
-| **Rabbit**  | Empathy, Will         | Confidence, Will      | Empathy, Cunning      |
-|             | Spirit, Air, Nature   | \+2 Nature, Air       | Metal, Air, Nature    |
-| **Dragon**  | Guile, Intellect      | Might, Confidence     | Guile, Confidence     |
-|             | Spirit, Water, Nature | \+2 Nature, Water     | Metal, Water, Nature  |
-| **Snake**   | Will, Cunning         | Intellect, Cunning    | Will, Might           |
-|             | Spirit, Earth, Metal  | Nature, Earth, Metal  | \+2 Metal, Earth      |
-| **Horse**   | Grace, Endurance      | Endurance, Intellect  | Grace, Empathy        |
-|             | \+2 Spirit, Fire      | Nature, Fire, Spirit  | Metal, Fire, Spirit   |
-| **Goat**    | Might, Guile          | Confidence, Endurance | Might, Cunning        |
-|             | \+2 Spirit, Air       | Nature, Air, Spirit   | Metal, Air, Spirit    |
-| **Monkey**  | Intellect, Grace      | Grace, Will           | Empathy, Confidence   |
-|             | Spirit, Water, Metal  | Nature, Water, Metal  | \+2 Metal, Water      |
-| **Rooster** | Guile, Empathy        | Cunning, Confidence   | Grace, Guile          |
-|             | Spirit, Earth, Metal  | Nature, Earth, Metal  | \+2 Metal, Earth      |
-| **Dog**     | Endurance, Will       | Empathy, Endurance    | Confidence, Grace     |
-|             | \+2 Spirit, Fire      | Nature, Fire, Spirit  | Metal, Fire, Spirit   |
-| **Pig**     | Empathy, Intellect    | Guile, Will           | Intellect, Will       |
-|             | Spirit, Air, Nature   | \+2 Nature, Air       | Metal, Air, Nature    |
+| **Rat**     | Cunning; Endurance    | Cunning; Grace        | Confidence; Intellect |
+|             | Spirit; Water; Nature | \+2 Nature; Water     | Metal; Water; Nature  |
+| **Ox**      | Might; Endurance      | Might; Empathy        | Endurance; Guile      |
+|             | Spirit; Earth; Metal  | Nature; Earth; Metal  | \+2 Metal; Earth      |
+| **Tiger**   | Grace; Might          | Cunning; Might        | Guile; Cunning        |
+|             | \+2 Spirit; Fire      | Nature; Fire; Spirit  | Metal; Fire; Spirit   |
+| **Rabbit**  | Empathy; Will         | Confidence; Will      | Empathy; Cunning      |
+|             | Spirit; Air; Nature   | \+2 Nature; Air       | Metal; Air; Nature    |
+| **Dragon**  | Guile; Intellect      | Might; Confidence     | Guile; Confidence     |
+|             | Spirit; Water; Nature | \+2 Nature; Water     | Metal; Water; Nature  |
+| **Snake**   | Will; Cunning         | Intellect; Cunning    | Will; Might           |
+|             | Spirit; Earth; Metal  | Nature; Earth; Metal  | \+2 Metal; Earth      |
+| **Horse**   | Grace; Endurance      | Endurance; Intellect  | Grace; Empathy        |
+|             | \+2 Spirit; Fire      | Nature; Fire; Spirit  | Metal; Fire; Spirit   |
+| **Goat**    | Might; Guile          | Confidence; Endurance | Might; Cunning        |
+|             | \+2 Spirit; Air       | Nature; Air; Spirit   | Metal; Air; Spirit    |
+| **Monkey**  | Intellect; Grace      | Grace; Will           | Empathy; Confidence   |
+|             | Spirit; Water; Metal  | Nature; Water; Metal  | \+2 Metal; Water      |
+| **Rooster** | Guile; Empathy        | Cunning; Confidence   | Grace; Guile          |
+|             | Spirit; Earth; Metal  | Nature; Earth; Metal  | \+2 Metal; Earth      |
+| **Dog**     | Endurance; Will       | Empathy; Endurance    | Confidence; Grace     |
+|             | \+2 Spirit; Fire      | Nature; Fire; Spirit  | Metal; Fire; Spirit   |
+| **Pig**     | Empathy; Intellect    | Guile; Will           | Intellect; Will       |
+|             | Spirit; Air; Nature   | \+2 Nature; Air       | Metal; Air; Nature    |
 
 ### Inner Animal
 
@@ -146,17 +146,17 @@ Choose one animal as your Inner Animal. Your choice grants you \+2 ranks to one 
 |             | Affinities                          | Mana  |
 | :---------- | :---------------------------------- | :---- |
 | **Rat**     | Ambition, any Crime Affinity        | Light |
-| **Ox**      | Perseverance, any Outdoors Affinity | Dark  |
-| **Tiger**   | Courage, any Fighting Affinity      | Light |
-| **Rabbit**  | Compassion, any Practical Affinity  | Dark  |
-| **Dragon**  | Grandeur, any Supernatural Affinity | Light |
-| **Snake**   | Wisdom, any Academic Affinity       | Dark  |
-| **Horse**   | Optimism, any Sports Affinity       | Light |
-| **Goat**    | Creativity, any Artistic Affinity   | Dark  |
-| **Monkey**  | Curiosity, any Culture Affinity     | Light |
-| **Rooster** | Honesty, any Conviction Affinity    | Dark  |
-| **Dog**     | Loyalty, any Social Affinity        | Light |
-| **Pig**     | Friendship, any Otaku Affinity      | Dark  |
+| **Ox**      | Perseverance; any Outdoors Affinity | Dark  |
+| **Tiger**   | Courage; any Fighting Affinity      | Light |
+| **Rabbit**  | Compassion; any Practical Affinity  | Dark  |
+| **Dragon**  | Grandeur; any Supernatural Affinity | Light |
+| **Snake**   | Wisdom; any Academic Affinity       | Dark  |
+| **Horse**   | Optimism; any Sports Affinity       | Light |
+| **Goat**    | Creativity; any Artistic Affinity   | Dark  |
+| **Monkey**  | Curiosity; any Culture Affinity     | Light |
+| **Rooster** | Honesty; any Conviction Affinity    | Dark  |
+| **Dog**     | Loyalty; any Social Affinity        | Light |
+| **Pig**     | Friendship; any Otaku Affinity      | Dark  |
 
 ## Interpersonal Dynamics
 
@@ -189,20 +189,13 @@ Choose a form for your Relic, gain \+1 rank in each of the associated Abilities 
 
 ### Starwrit Agenda
 
-Determine which of the following Elements you have the most Mana in and createt an Agenda based on the guidance provided for that Element.
+Determine which of the following Elements you have the most Mana in and create an Agenda based on the guidance provided for that Element.
 
-* **Spirit.** Identity, meaning, or faith.
-  * Define who you truly are.
-  * Uphold your beliefs.
-  * Preserve innocence.
-* **Nature.** Growth, materialism, or connection.
-  * Change through experience.
-  * Fully engage with the material world.
-  * Build and protect bonds.
-* **Metal.** Structure, principle, or justice.
-  * Impose order where there is chaos.
-  * Create something tthat endures.
-  * Correct corrupt systems.
+* **Spirit.** An Agenda focused on defining or struggling with your identity, upholding your beliefs, or preserving innocence and light.
+
+* **Nature.** An Agenda focused on growing as a person, engaging with the material world, or building and protecting bonds.
+
+* **Metal.** An Agenda focused on imposing order on chaos, creating something that endures, or correcting corrupt systems.
 
 ### Magical Affinities
 
