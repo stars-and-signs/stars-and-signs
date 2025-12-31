@@ -205,7 +205,7 @@ Determine which of the following Elements you have the most Mana in and create a
 
 ### Magical Affinities
 
-Spend your Mana by choosing Affinities from the Magical Affinities list. Each rank costs two Mana of any type. In addition, the first rank of a Magical Affinity costs two Mana of a specific type combination, as listed in the Magical Affinity list.
+Spend your Mana by choosing Affinities from the [Magical Affinities list](../affinity-lists#magical). Each rank costs two Mana of any type. In addition, the first rank of a Magical Affinity costs two Mana of a specific type combination, as listed in the Magical Affinity list.
 
 ## Finishing Up
 
