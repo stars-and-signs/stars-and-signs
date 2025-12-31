@@ -5,9 +5,9 @@ layout: page
 
 ## Energy Counter
 
-Each protagonist has an Energy Resource Counter with 5 Energy slots, which they use to power their Magic.
+Each protagonist has an Energy Resource Counter with 5 Energy slots, which they use to power their Magic. A protagonist clears all of their filled Energy slots when they Transform and at each Minor Milestone.
 
-At each Minor Milestone, each protagonist clears all of their filled Energy slots.
+The referee may use the Drain Complication targeting Transformed protagonists, which fills 1 to 10 Energy slots.
 
 ## Transformation
 
@@ -16,11 +16,13 @@ A protagonist may assume their magical identity by filling 1 Corruption slot. Wh
 A Transformed protagonist remains in this state until one of the following conditions:
 
 * They become Consumed, Broken, or are Defeated.
-* They suffer the Dispel Fallout.
 * They reach a Minor Milestone.
+* They fill their final Energy slot without clearing it.
 * They choose to end their Transformation (no Action required).
 
 When the Transformation ends, a protagonist's Relic vanishes, their Regalia reverts to their normal clothing, and they lose access to their Magical Talents.
+
+While Transformed, a protagonist can fill 1 Corruption slot to clear their filled Corruption slots (no Action required).
 
 ## Magical Affinities
 
@@ -48,60 +50,61 @@ Regalia is an Armor Asset with a Resist (Defense) Function with a Quality of 0 a
 
 ## Magical Gifts
 
-Each protagonist has a unique Magical Gift, which describes how they regain Energy. In addition, some Talents have specific Gifts as prerequisites.
+Each protagonist has a Magical Gift. Magical Gifts confer benefits under conditions unique to that Gift.
 
 During protagonist creation, choose one of the following Gifts.
 
-### Overdrive
+### Reliable Gift
 
-You gain your magic in one large burst but once you're out, you'll need to wait to cool down.
+You lack the extreme spikes in power of other Gifts but make up for it in terms of consistent power. Increase your number of Energy Counter slots by 5.
 
-Increase the number of slots in your Energy Counter by 5.
+In addition, when you suffer the Corrupt Fallout, you may roll a d10. On a 6 or higher, reduce the amount of Corruption suffered to 0.
 
-### Emotional Battery
+### Explosive Gift
 
-Your magic derives from your flowing emotions.
+You can increase your power reliably in small bursts but once you've expended that reserve, you must wait to do so again. Twice per Minor Milestone, when you perform an Action with your Relic, you can increase your Potency to 4.
 
-While Transformed, you can enter a Mood of your choice (no Action required). When you do, you gain a number of Temporary Energy slots equal to half your ranks in the Ability associated with that Mood.
+### Escalating Gift
 
-### Power of Faith
+You can build up to explosive discharges of power. You gain a Momentum Counter with five slots. Whenever you score a Graze or better for an Action that uses your Relic, fill a Momentum slot. When your Momentum Counter is full, you can clear all filled slots to increase the Potency of an Action using your Relic to 4.
 
-Your beliefs power your magic.
+### Tainted Gift
 
-Choose one of your Conviction Affinities or Heart Aspect. When you compel the chosen Trait, you gain 5 Temporary Energy slots in addition to the other benefits.
+You can increase your power at will, only limited by the amount of darkness you can endure. When you use your Relic for an Action, you may suffer 1d10 Corruption to increase the Potency to 4.
 
-If you refuse a compel for the chosen Trait, fill all of your unfilled Energy slots. You cannot gain Temporary Energy slots or clear filled Energy slots until the next Minor Milestone.
+## Energy Sources
 
-### Charge Up
+In addition to spending Corruption, protagonists may regain Energy through a variety of means, called Sources. When the campaign begins, the referee chooses one or more of these Sources to be available to all of the protagonists.
 
-You need to prepare to get full use of your magic.
+### Friendship
 
-Choose a Skill in which you have at least a +1 modifier. You can use the Create Action with that Skill to charge your power. The results of that Action are described below:
+Protagonists can harness the power of friendship. When they compel a Connection or an Affinity that represents another character, instead of the usual benefits, they may clear up to 5 filled Energy slots. Excess cleared slots may be converted into Temporary Energy slots.
 
-* **Critical Hit.** Gain 5 Temporary Energy slots and an Extra - clear your filled Temporary Energy slots.
-* **Hit.** Gain 5 Temporary Energy slots.
-* **Graze.** Mitigation Cost - gain 1 Temporary Energy slot.
-* **Miss.** Harm Fallout - gain 1 Corruption.
+### Emotions
 
-### Dark Seed
+Protagonists gain power from their Emotions. While Transformed, a protagonist may enter a Mood to clear a number of filled Energy slots up to half their ranks in the Ability associatted with that Mood. Excess cleared slots may be converted into Temporary Energy slots.
 
-You can gain enormous amounts of magical power in exchange for darkening your spirit.
+### Beliefs
 
-While Transformed, you can suffer 1d10 Corruption to gain 5 Temporary Energy (no Action required). The number of d10s rolled to determine the amount of Corruption suffered increases by 1 each time you use this feature before a Minor Milestone.
+Protagonists power their magic through their strong beliefs. When they invoke an Aspect or an Affinity from the Conviction list, instead of the usual benefits, they may clear up to 5 filled Energy slots. Excess cleared slots may be converted into Temporary Energy slots.
 
-### Catch
+### Essence
 
-Your magic has a weakness, drawback, or limitation that applies under specific circumstances.
+Protagonists may trade their health for power. A protagonist may choose to suffer a Mental or Physical Wound to clear up to 5 filled Energy slots. Excess cleared slots may be converted into Temporary Energy slots. To determine the Potency of the Wound, roll a d10, on a result of 6 or higher, the Potency is 2, otherwise the Potency is 1.
 
-Describe a situation where your magic is limited and choose a Cost. Whenever you use your magic in that scenario, you suffer the chosen Cost and gain 1 Temporary Energy.
+### Contracts
 
-Each protagonist’s magic has a drawback, limitation, cost, or weakness called a Catch. Protagonists design their own Catch at creation. A Catch can be almost anything, but it should represent some sort of complicatting factor.
+Protagonists may enter contracts with supernatural entities to gain Energy. The referee creates these entities as characters and determines the price. Roughly, the amount of Energy generated corresponds to the magnitude of the price:
+
+* Small price - 1 Energy
+* Medium price - 5 Energy
+* Large price - 10 Energy
 
 ## Wishes
 
 Once per Major Milestone, when a protagonist uses their Relic for an Action, they may make a Wish to attempt to achieve something monumental. The protagonist must describe the desired outcome of this Wish in 7 words or less.
 
-When a protagonist makes a Wish, their Action gains +1 to one Scale of their choice. This can increase that Scale to a maximum of 5. Once the protagonist completes the Check, they immediately suffer the consequences of filling their 10th Corruption slot.
+When a protagonist makes a Wish, their Action gains +1 Potency. This can increase Potency to a maximum of 5. Once the protagonist completes the Check, they immediately suffer the consequences of filling their 10th Corruption slot.
 
 The effects of a Scale 5 Action may be grand, for example, a protagonist may:
 

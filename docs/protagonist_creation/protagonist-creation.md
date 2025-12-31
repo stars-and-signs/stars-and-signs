@@ -181,7 +181,7 @@ For each other protagonist, compare your Compatibility Element to theirs. If you
 
 ### Gift
 
-Choose one [Magical Gift](../core_rules/magic.md#magical-gifts) as the source of your magical power.
+Choose one [Magical Gift](../core_rules/magic.md#magical-gifts) as the mechanism for your magical power.
 
 ### Relic
 
