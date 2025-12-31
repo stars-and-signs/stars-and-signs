@@ -43,7 +43,7 @@ S&S is the first iteration of a generic roleplaying game framework, called the P
   - [Classes](docs/core_rules/classes)
   - [Advancement](docs/core_rules/advancement)
 - [Protagonist Creation](docs/protagonist_creation/protagonist-creation)
-- [Referee](docs/referee_guide)
+- [Referee](docs/referee_guide/referee-guide)
 - [Affinity Lists](docs/affinity-lists)
 - [Inspirational Media](docs/core_rules/inspirational-media)
 - [Glossary](docs/core_rules/glossary)
