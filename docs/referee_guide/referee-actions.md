@@ -37,6 +37,10 @@ Introduce a new Trait or a narrative twist.
 
 Introduce a new, minor obstacle.
 
+### Drain
+
+This Complication can only targe protagonists that are Transformed. Roll 1d10, the protagonist expends that much Energy without gaining a benefit for doing so.
+
 ### Shift
 
 Something changes about the scene or the opposition recovers or repositions.
@@ -70,6 +74,6 @@ Introduce a new, significant obstacle.
 
 The protagonist’s actions backfire.
 
-### Dispel
+### Corrupt
 
-The protagonist's Transformation or an ongoing magical effect they have created ends.
+This Fallout may only target a Transformed protagonis. The protagonist gains 1 Corruption.
