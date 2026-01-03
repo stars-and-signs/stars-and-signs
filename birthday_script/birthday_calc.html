@@ -197,7 +197,7 @@
                 resultsDiv.classList.remove('show');
             } else {
                 errorDiv.classList.remove('show');
-                resultsList.innerHTML = result.map(date => `<li>${date}</li>`).join('');
+                resultsList.innerHTML = result.map(item => `<li>${item.date} - Moon: ${item.moonSign}</li>`).join('');
                 resultsDiv.classList.add('show');
             }
         });
