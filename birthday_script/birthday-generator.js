@@ -1,23 +1,3 @@
-function calculateMoonSign(date) {
-  const zodiacSigns = ["Aries", "Taurus", "Gemini", "Cancer", "Leo", "Virgo",
-    "Libra", "Scorpio", "Sagittarius", "Capricorn", "Aquarius", "Pisces"];
-
-  const moonDegreesPerDay = 13.18;
-  const zodiacDegrees = 360;
-  const degreesPerSign = 30;
-
-  // Reference date: January 1, 1972, at midnight (Cancer starts at 90 degrees)
-  const referenceDate = new Date(1972, 0, 1);
-  const referenceMoonPosition = 90;
-
-  const daysSinceReference = (date - referenceDate) / (1000 * 60 * 60 * 24);
-
-  const moonPosition = (referenceMoonPosition + daysSinceReference * moonDegreesPerDay) % zodiacDegrees;
-
-  const signIndex = Math.floor(moonPosition / degreesPerSign);
-  return zodiacSigns[signIndex];
-}
-
 function generateBirthdates(zodiacAnimal, sunSign, moonSign, ascendantSign) {
   const zodiacDates = {
     rat: { start: [12, 19], end: [1, 18] },
@@ -76,12 +56,7 @@ function generateBirthdates(zodiacAnimal, sunSign, moonSign, ascendantSign) {
   const [sunMonth, sunDay] = sunSignDates[sun].start;
 
   validYears.forEach(year => {
-    const birthDate = new Date(year, sunMonth - 1, sunDay);
-    const calculatedMoonSign = calculateMoonSign(birthDate);
-    results.push({
-      date: birthDate.toDateString(),
-      moonSign: calculatedMoonSign
-    });
+    results.push(new Date(year, sunMonth - 1, sunDay).toDateString());
   });
 
   return results;
