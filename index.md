@@ -47,4 +47,4 @@ S&S is the first iteration of a generic roleplaying game framework, called the P
 - [Affinity Lists](docs/affinity-lists)
 - [Inspirational Media](docs/core_rules/inspirational-media)
 - [Glossary](docs/core_rules/glossary)
-- [Birthdate Calculator](birthday_calc.html)
+- [Birthdate Calculator](birthday_script/birthday_calc.html)
