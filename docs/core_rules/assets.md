@@ -38,7 +38,7 @@ Assets may improve one or more of the Scales of Actions and Reactions made using
 
 For example:
 
-* A Baseball Bat upgrades the Potency of Violence Actions to 1.
+* A Baseball Bat improves the Potency of Violence Actions to 1.
 * A Magical Sword, even while wielded by a normal human, improves the Potency of Violence Actions to 3.
 * A Car improves the Speed of Traversal Actions made using it to 2.
 

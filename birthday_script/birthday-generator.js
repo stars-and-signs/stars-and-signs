@@ -1,4 +1,12 @@
 function generateBirthdates(zodiacAnimal, sunSign, moonSign, ascendantSign) {
+  const MS_PER_DAY = 86400000;
+
+  const moonSigns = [
+    "aries", "taurus", "gemini", "cancer",
+    "leo", "virgo", "libra", "scorpio",
+    "sagittarius", "capricorn", "aquarius", "pisces"
+  ];
+
   const zodiacDates = {
     rat: { start: [12, 19], end: [1, 18] },
     ox: { start: [1, 19], end: [2, 18] },
@@ -30,33 +38,45 @@ function generateBirthdates(zodiacAnimal, sunSign, moonSign, ascendantSign) {
   };
 
   const zodiacYears = {
-    rat: [1972, 1984, 1996, 2008, 2020, 2032, 2044, 2056, 2068],
-    ox: [1973, 1985, 1997, 2009, 2021, 2033, 2045, 2057, 2069],
-    tiger: [1974, 1986, 1998, 2010, 2022, 2034, 2046, 2058, 2070],
-    rabbit: [1975, 1987, 1999, 2011, 2023, 2035, 2047, 2059],
-    dragon: [1976, 1988, 2000, 2012, 2024, 2036, 2048, 2060],
-    snake: [1977, 1989, 2001, 2013, 2025, 2037, 2049, 2061],
-    horse: [1978, 1990, 2002, 2014, 2026, 2038, 2050, 2062],
-    goat: [1979, 1991, 2003, 2015, 2027, 2039, 2051, 2063],
-    monkey: [1980, 1992, 2004, 2016, 2028, 2040, 2052, 2064],
-    rooster: [1981, 1993, 2005, 2017, 2029, 2041, 2053, 2065],
-    dog: [1982, 1994, 2006, 2018, 2030, 2042, 2054, 2066],
-    pig: [1983, 1995, 2007, 2019, 2031, 2043, 2055, 2067]
+    rat: [1972, 1984, 1996, 2008, 2020, 2032],
+    ox: [1973, 1985, 1997, 2009, 2021, 2033],
+    tiger: [1974, 1986, 1998, 2010, 2022, 2034],
+    rabbit: [1975, 1987, 1999, 2011, 2023, 2035],
+    dragon: [1976, 1988, 2000, 2012, 2024, 2036]
   };
 
-  const results = [];
+  const referenceDate = new Date(Date.UTC(1972, 0, 1, 0, 0, 0));
+  const referenceMoonIndex = moonSigns.indexOf("cancer");
+  const moonSignLength = 29.530588 / 12;
+
+  function getMoonSign(date) {
+    const daysSinceRef = (date - referenceDate) / MS_PER_DAY;
+    const signOffset = Math.floor(daysSinceRef / moonSignLength);
+    return moonSigns[(referenceMoonIndex + signOffset) % 12];
+  }
+
   const animal = zodiacAnimal.toLowerCase();
   const sun = sunSign.toLowerCase();
+  const moon = moonSign.toLowerCase();
 
-  if (!zodiacDates[animal] || !sunSignDates[sun]) {
+  if (!zodiacYears[animal] || !sunSignDates[sun]) {
     return "Invalid zodiac animal or sun sign";
   }
 
-  const validYears = zodiacYears[animal];
-  const [sunMonth, sunDay] = sunSignDates[sun].start;
+  const results = [];
 
-  validYears.forEach(year => {
-    results.push(new Date(year, sunMonth - 1, sunDay).toDateString());
+  zodiacYears[animal].forEach(year => {
+    const [startMonth, startDay] = sunSignDates[sun].start;
+    const [endMonth, endDay] = sunSignDates[sun].end;
+
+    const start = new Date(year, startMonth - 1, startDay);
+    const end = new Date(year, endMonth - 1, endDay);
+
+    for (let d = new Date(start); d <= end; d.setDate(d.getDate() + 1)) {
+      if (getMoonSign(d) === moon) {
+        results.push(new Date(d).toDateString());
+      }
+    }
   });
 
   return results;
