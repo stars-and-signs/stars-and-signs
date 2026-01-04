@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 
 # Talents
@@ -35,6 +36,6 @@
 
 **Talent slot requirement.** Violence
 
-**Relic Function.** Your Relic gains an Eliminate (Violence) Function with a Quality of 0 and a Scale (Range) of 1.
+**Relic Function.** When you use your Relic for Violence, you can launch projectiles out to a range of 15 meters (Range 2).
 
 **Might rank increase.** When you take this Talent, you gain +1 Might rank.
