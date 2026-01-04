@@ -5,9 +5,9 @@ layout: page
 
 ## Energy Counter
 
-Each protagonist has an Energy Resource Counter with 5 Energy slots, which they use to power their Magic. A protagonist clears all of their filled Energy slots when they Transform and at each Minor Milestone.
+Each protagonist has an Energy Resource Counter with 5 Energy slots, which they use to power their Magic. A protagonist clears all of their filled Energy slots at each Major Milestone.
 
-The referee may use the Drain Complication targeting Transformed protagonists, which fills 1 to 10 Energy slots.
+In addition to powering magic, a protagonist's Energy may be expended as a result of a Complication while they are Transformed. A protagonist that wishes to conserve their Energy should therefore only Transform when necessary.
 
 ## Transformation
 
@@ -22,17 +22,15 @@ A Transformed protagonist remains in this state until one of the following condi
 
 When the Transformation ends, a protagonist's Relic vanishes, their Regalia reverts to their normal clothing, and they lose access to their Magical Talents.
 
-While Transformed, a protagonist can fill 1 Corruption slot to clear their filled Corruption slots (no Action required).
-
 ## Magical Affinities
 
 Each protagonist has one or more Affinities from the Magical Affinity list. Magical Affinities can only be invoked while Transformed.
 
-While Transformed, a protagonist may freely manipulate the subjects of their Magical Affinities, so long as they're able to achieve the appropriate Scale for the described Action. For example, a protagonist with Affinity for Fire Magic may conjure flames to attack an enemy, even when none is present.
+While Transformed, a protagonist may freely manipulate the subjects of their Magical Affinities, so long as they're able to achieve the appropriate Scale for the described Action. For example, a protagonist with Affinity for Fire Magic may conjure flames to attack an enemy, even when no fire is present.
 
-A protagonist does not need to invoke a Magical Affinity in order to manipulate it.
+A protagonist does not need to invoke a Magical Affinity in order to manipulate it. For example, a protagonist with Ice Magic could create an ice slick on the ground without invoking Ice Magic; but their Check to trip someone using it could benefit from invoking their Ice Magic Affinity, as normal.
 
-Protagonists gain Magical Affinities when they are created and then may increase their ranks in these Affinities when they Advance their Traits.
+Protagonists gain ranks in Magical Affinities when they are created and then may increase their ranks in these Affinities when they Advance their Traits.
 
 ## Relic
 
@@ -50,23 +48,23 @@ Regalia is an Armor Asset with a Resist (Defense) Function with a Quality of 0 a
 
 ## Magical Gifts
 
-Each protagonist has a Magical Gift. Magical Gifts confer benefits under conditions unique to that Gift.
+Each protagonist has a Magical Gift. Magical Gifts confer benefits under conditions unique to that Gift. Most Gifts allow a protagonist to perform Actions with a Potency greater than 3.
 
 During protagonist creation, choose one of the following Gifts.
 
 ### Reliable Gift
 
-You lack the extreme spikes in power of other Gifts but make up for it in terms of consistent power. Increase your number of Energy Counter slots by 5.
+You lack the extreme spikes in power of other Gifts but make up for it in terms of consistent power. At each Minor Milestone, you gain 5 Temporary Energy slots.
 
-In addition, when you suffer the Corrupt Fallout, you may roll a d10. On a 6 or higher, reduce the amount of Corruption suffered to 0.
+In addition, when you suffer the Corrupt Fallout, you may roll a d10. On a 6 or higher, reduce the amount of Corruption suffered by 1 (to a minimum of 0).
 
 ### Explosive Gift
 
-You can increase your power reliably in small bursts but once you've expended that reserve, you must wait to do so again. Twice per Minor Milestone, when you perform an Action with your Relic, you can increase your Potency to 4.
+You can increase your power reliably in small bursts but once you've expended that reserve, you must wait to do so again. When you perform an Action with your Relic, you can expend 5 Energy to increase your Potency to 4. You can increase your Potency in this way twice and you regain all uses at each Minor Milestone.
 
 ### Escalating Gift
 
-You can build up to explosive discharges of power. You gain a Momentum Counter with five slots. Whenever you score a Graze or better for an Action that uses your Relic, fill a Momentum slot. When your Momentum Counter is full, you can clear all filled slots to increase the Potency of an Action using your Relic to 4.
+You can build up to explosive discharges of power. You gain a Momentum Counter with five slots. Whenever you score a Graze or better for an Action, you can expend 1 Energy to fill a Momentum slot. When your Momentum Counter is full, you can clear all filled slots to increase the Potency of an Action using your Relic to 4.
 
 ### Tainted Gift
 
@@ -74,7 +72,7 @@ You can increase your power at will, only limited by the amount of darkness you 
 
 ## Energy Sources
 
-In addition to spending Corruption, protagonists may regain Energy through a variety of means, called Sources. When the campaign begins, the referee chooses one or more of these Sources to be available to all of the protagonists.
+Protagonists may regain Energy through a variety of means, called Sources. When the campaign begins, the referee chooses one or more of these Sources. All protagonists have access to the chosen Source.
 
 ### Friendship
 
@@ -86,19 +84,29 @@ Protagonists gain power from their Emotions. While Transformed, a protagonist ma
 
 ### Beliefs
 
-Protagonists power their magic through their strong beliefs. When they invoke an Aspect or an Affinity from the Conviction list, instead of the usual benefits, they may clear up to 5 filled Energy slots. Excess cleared slots may be converted into Temporary Energy slots.
+Protagonists power their magic through their strong beliefs. When a protagonist compels one of their Affinities from the Conviction list or invokes one of their Aspects, they may clear up to 5 filled Energy slots. Excess cleared slots are converted into Temporary Energy slots.
 
 ### Essence
 
-Protagonists may trade their health for power. A protagonist may choose to suffer a Mental or Physical Wound to clear up to 5 filled Energy slots. Excess cleared slots may be converted into Temporary Energy slots. To determine the Potency of the Wound, roll a d10, on a result of 6 or higher, the Potency is 2, otherwise the Potency is 1.
+Protagonists may trade their wellbeing for power. A protagonist may roll a number of d10 of their choice, up to 5, and suffer Despair equal to the total (no Action required). They then clear a number of Energy slots equal to the number of Despair slots filled.
+
+In addition, a protagonist may suffer their choice of a Potency 1 Wound to clear 5 filled Energy slots.
+
+In either case, excess cleared slots are converted into Temporary Energy slots.
 
 ### Contracts
 
-Protagonists may enter contracts with supernatural entities to gain Energy. The referee creates these entities as characters and determines the price. Roughly, the amount of Energy generated corresponds to the magnitude of the price:
+Protagonists may enter contracts with supernatural entities to gain Energy. The referee controls these entities and determines the price. Roughly, the amount of Energy generated corresponds to the magnitude of the price:
 
 * Small price - 1 Energy
 * Medium price - 5 Energy
 * Large price - 10 Energy
+
+Guidance for creating these contracts is outlined in the Adjudicating Magic Referee Guide.
+
+### Willpower
+
+A protagonist can power their magic using their inner strength. A protagonist may spend 5 Effort of any type to clear a filled Energy slot.
 
 ## Wishes
 

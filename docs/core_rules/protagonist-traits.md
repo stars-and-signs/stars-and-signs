@@ -7,11 +7,13 @@ Protagonist Traits define who they are as a character beyond their Abilities and
 
 Protagonist Traits come in several forms:
 
-* **Aspects.** Identity-defining attributes.  
-* **Connections.** Bonds between protagonists.  
-* **Agendas.** Motivations and personal goals.  
-* **Anchors.** What grounds the protagonist.  
-* **Affinities.** Finer specializations.
+| Trait Type  | Description                                                                                                                   | Advancement                                 |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| Aspects     | Identity-defining attributes. Come in three subtypes: Heart, Shadow, and Mask. The referee may compel them.                   | Magical Affinity                            |
+| Connections | Bonds and divisions between protagonists. Can be Positive, Negative, or Neutral. Can generate bonus Hope.                     | Affinity to the target protagonist          |
+| Agendas     | A protagonists personal goals and motivations.                                                                                | Affinity from any list or gain an Anchor    |
+| Anchors     | What grounds a protagonist to the mundane world. Clear a Corruption slot when compelled. Can be used to initiate a Flashback. | Affinity to something related to the Anchor |
+| Affinities  | Specializations, knowledge, and training. Have ranks from 1 to 10 that grant free invokes each Minor Milestone.               | Does not Advance.                           |
 
 ## Memories and Advancing
 
@@ -83,7 +85,7 @@ Unlike Aspects or Connections, Agendas often reach clear narrative conclusions. 
 
 ## Anchors
 
-Anchors are Permanent Neutral Traits that keep a protagonist grounded and tethered to the mundane world, for good or for ill. They can be leveraged to counterbalance the seductive pull of magic, trauma, and dwindling will.
+Anchors are Permanent Neutral Traits that keep a protagonist grounded and tethered to the mundane world, for good or for ill. They can be leveraged to counterbalance the seductive pull of magic or dwindling willpower.
 
 Anchors must not be magical in nature. Common Anchors include:
 
@@ -99,7 +101,7 @@ A protagonist may have up to five Anchors at any time. If they would gain a sixt
 
 ### Clearing Corruption
 
-When a protagonist compels an Anchor, they may choose to gain 1 Hope as normal or instead clear 1 Corruption slot.
+When a protagonist compels an Anchor, they clear 1 Corruption slot in addition to the usual benefits of compelling a Trait.
 
 ### Flashbacks
 
@@ -124,12 +126,12 @@ Unlike other Traits, a protagonist can gain the same Affinity multiple times. Wh
 Protagonists gain 1 free invokes for an Affinity at ranks 2, 4, 6, 8, and 10\.
 
 | Affinity Rank | Free Invokes |
-| :---- | :---- |
-| 1 | 0 |
-| 2-3 | 1 |
-| 4-5 | 2 |
-| 6-7 | 3 |
-| 8-9 | 4 |
-| 10 | 5 |
+| :------------ | :----------- |
+| 1             | 0            |
+| 2-3           | 1            |
+| 4-5           | 2            |
+| 6-7           | 3            |
+| 8-9           | 4            |
+| 10            | 5            |
 
 Protagonists refresh their free Affinity invokes at each Minor Milestone.

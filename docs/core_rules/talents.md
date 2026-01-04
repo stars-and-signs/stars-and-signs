@@ -17,3 +17,11 @@ Talents increase protagonist Ability ranks. When a Talent is placed into a slot 
 ## Repeating Talents
 
 Most Talents may only be taken once. Some Talents specify that they may be taken multiple times and may offer multiple options that may be taken each time.
+
+## List of Talents
+
+The descriptions of Talents are found in the [Talent Description](../appendix/talent-descriptions.md) section. A summary of each Talent is provided below.
+
+| Talent | Description | Requirements |
+| ------ | ----------- | ------------ |
+|        |             |              |

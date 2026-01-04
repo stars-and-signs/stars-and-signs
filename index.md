@@ -6,7 +6,7 @@ layout: default
 
 > **Current Version:** v0.1-alpha  
 > **Status:** Rough draft, open for feedback.
-> **Feedback:** Please provide on [GitHub](https://github.com/stars-and-signs/stars-and-signs/discussions) or wherever you saw these rules posted :)
+> **Feedback:** Please provide on [GitHub](https://github.com/stars-and-signs/stars-and-signs/discussions) or wherever you saw these rules posted
 
 ## Introduction
 
@@ -44,6 +44,10 @@ S&S is the first iteration of a generic roleplaying game framework, called the P
   - [Advancement](docs/core_rules/advancement)
 - [Protagonist Creation](docs/protagonist_creation/protagonist-creation)
 - [Referee Guide](docs/referee_guide/referee-guide)
-- [Affinity Lists](docs/affinity-lists)
-- [Inspirational Media](docs/core_rules/inspirational-media)
-- [Glossary](docs/core_rules/glossary)
+- Appendix
+  - [Affinity Lists](docs/affinity-lists)
+  - [Magical Affinities](docs/appendix/magical-affinities.md)
+  - [Inspirational Media](docs/core_rules/inspirational-media)
+  - [Glossary](docs/appendix/glossary)
+  - [Talent Descriptions](docs/appendix/talent-descriptions.md)
+  - [Skill Descriptions](docs/appendix/skill-descriptions.md)
