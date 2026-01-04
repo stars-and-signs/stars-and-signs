@@ -4,9 +4,9 @@ layout: default
 
 # Stars & Signs
 
-> **Current Version:** v0.1-initial  
-> **Status:** Initial commit of text.
-> **Feedback:** Postpone comment until v0.1-alpha
+> **Current Version:** v0.1-alpha  
+> **Status:** Rough draft, open for feedback.
+> **Feedback:** Please provide on [GitHub](https://github.com/stars-and-signs/stars-and-signs/discussions) or wherever you saw these rules posted :)
 
 ## Introduction
 
