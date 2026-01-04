@@ -45,9 +45,8 @@ S&S is the first iteration of a generic roleplaying game framework, called the P
 - [Protagonist Creation](docs/protagonist_creation/protagonist-creation)
 - [Referee Guide](docs/referee_guide/referee-guide)
 - Appendix
-  - [Affinity Lists](docs/affinity-lists)
+  - [Affinity Lists](docs/appendix/affinity-lists)
   - [Magical Affinities](docs/appendix/magical-affinities.md)
-  - [Inspirational Media](docs/core_rules/inspirational-media)
-  - [Glossary](docs/appendix/glossary)
+  - [Inspirational Media](docs/appendix/inspirational-media)
   - [Talent Descriptions](docs/appendix/talent-descriptions.md)
   - [Skill Descriptions](docs/appendix/skill-descriptions.md)
