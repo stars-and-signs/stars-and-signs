@@ -3,11 +3,31 @@
 
 # How to Play
 
-## About the Setting
+## Protagonists and Referees
 
-Stars & Signs is assumed to take place in a modern setting inspired by the "magical girl" genre of anime with influences from cosmic and weird horror. Protagonists are young people who must balance magical conflicts against horrors beyond comprehension with their mundane lives fraught with melodrama.
+To play S&S, you need a referee and two to six other players to portray the protagonists.
 
-A typical gameplay scenario involves investigation and interactions with casts of interesting characters followed by magical conflicts in surreal dream worlds.
+### Players
+
+Players inhabit the role of the story's protagonists. To be a player, you create a protagonist that forms a team with the protagonists created by other players.
+
+### Referees
+
+One player takes on the special role of referee. A referee is responsible for all the non-protagonist characters in the game's world, designing and facilitating scenarios, and adjudicating the rules.
+
+## Core Gameplay Loop
+
+In S&S, scenarios typically unfold in the following stages:
+
+1. The referee describes the scenario, including the environment and the actions of non-protagonist characters.
+2. The players declare what their protagonists do.
+3. The referee determines the results of the protagonists' actions.
+
+## Actions, Checks, and Consequences
+
+## Magic and Transformation
+
+## How to Start Your First Session
 
 ## Example of Play
 
@@ -16,3 +36,5 @@ A typical gameplay scenario involves investigation and interactions with casts o
 ## Basic Gameplay Principles
 
 * **Round up.** When a calculation results in a non-integer number, unless otherwise specified, round up to the higher nearest integer.
+
+* **Specific Supersedes General.**
