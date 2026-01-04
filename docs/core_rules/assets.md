@@ -51,7 +51,7 @@ Common types of Assets with examples include:
 * **Weapons.** Blades, bats, and firearms. Weapons are used to harm things. All Weapon Assets can be used for Eliminate (Violence) or Hinder (Violence).  
 * **Armor.** Bulletproof vests, riot shields, plate mail, and magical barriers. All Armor Assets can be used for Bolster (Defense).
 * **Leverage.** Blackmail, favors, and bribes. Leverage can be used for Influence Actions using one or more Skills.  
-* **Vehicles.** Bikes, running shoes, cars, mechs, and trains. Vehicles are used for Traverse Actions.  
+* **Vehicles.** Bikes, running shoes, cars, fast running yokai, and trains. Vehicles are used for Traverse Actions.  
 * **References.** Books, libraries, and informants. References are used for Discover Actions.  
 * **Materials.** Raw components, damaged objects, and power tools. Materials are used for Create (Craft) Actions.  
 * **Obstructions.** Barriers and hiding spots. Obstructions are used to Obscure (Stealth) or Bolster (Defense).  
@@ -92,5 +92,3 @@ A Stationary Asset cannot be added to a protagonist’s Inventory and must be us
 ### Compact
 
 A Compact Asset does not contribute to a protagonist’s Inventory limit for Assets of that type. Running Shoes are Compact Vehicle Assets.
-
----

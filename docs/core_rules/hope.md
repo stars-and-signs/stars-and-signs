@@ -12,8 +12,6 @@ Protagonists can spend Hope to invoke Traits. Some features provide additional u
 
 ## Regaining Hope
 
-At each Major Milestone, each protagonistt clears their filled Hope slots. A protagonist may also regain Hope by compelling Traits.
+At each Major Milestone, each protagonist clears their filled Hope slots. A protagonist may also regain Hope by compelling Traits.
 
 Protagonists may gain Temporary Hope by gaining Negative Connections to other protagonists.
-
----

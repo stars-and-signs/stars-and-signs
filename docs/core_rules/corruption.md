@@ -14,7 +14,7 @@ Gaining Corruption has no impact during a session. Instead, it only begins to im
 
 The referee gets a Temptation for each protagonist that reaches a Minor Milestone with at least 5 filled Corruption slots.
 
-For each protagonist that reaches a Major Milestone with at least 1 filled Corruption slot, the referee gains a Corruption Fallout which they can use against that protagonist before the next Major Milestone. The severity of this Corruption Fallout depends on the level of Corruption. It may be Minor, Major, or Severe.
+For each protagonist that reaches a Major Milestone with at least 1 filled Corruption slot, the referee gains a Temptation which they can use against that protagonist before the next Major Milestone. The severity of this Temptation depends on the level of Corruption. It may be Minor, Major, or Severe.
 
 The Referee Guide has more information about the effects of Temptations.
 

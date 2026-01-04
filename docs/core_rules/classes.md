@@ -35,5 +35,3 @@ When a protagonist gains a rank in their Class, they gain the features for their
 |Seeker|Excels at mental challenges.|Observant, Archivist|
 |Stray||Lucky, Resourceful|
 |Survivor||Prepared, Tenacious|
-
----

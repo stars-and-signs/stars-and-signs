@@ -36,5 +36,3 @@ A Major Milestone occurs at the end of the last session in a story arc, as deter
 At each Major Milestone, protagonists may spend any amount of accrued XP to increase Skill ranks. To increase a Skill rank, you must spend an amount of XP equal to 5 times the desired rank. XP must be paid for each rank sequentially.
 
 For example, a protagonist that wishes to increase their Craft Skill rank from 3 to 5 must first spend 20 XP to increase their rank to 4\. They may then spend 25 XP to increase it to 5\. They would need to spend a total of 45 XP\.
-
----

@@ -29,5 +29,3 @@ At each Major Milestone, a protagonist’s Effort resets to the corresponding Re
 ## Gaining Experience Points
 
 Whenever a protagonist regains Effort through either a Skill compel or Refresh, they also gain an equal number of Experience Points (XP).
-
----

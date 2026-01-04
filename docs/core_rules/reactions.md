@@ -50,7 +50,7 @@ Examples: keep a summoned entity under control, hold concentration under duress,
 
 When a protagonist is participating in a Cooperation Check as a Follower.
 
-Examples: stealthing as a group, working together to lift a heavy object, performing a group ritual.
+Examples: sneaking as a group, working together to lift a heavy object, performing a group ritual.
 
 ### Recover
 
@@ -64,7 +64,7 @@ A Test is used to determine if a protagonist’s Reaction succeeds or fails. Unl
 
 To perform a Test, the referee rolls Difficulty dice, which is 2d10. The result is then compared against the protagonist’s most relevant Skill’s Reaction score, determined by the nature of the Reaction. If the Difficulty roll is equal to or greater than the Reaction score, the protagonist fails. Otherwise, the protagonist succeeds.
 
-Tests are binary \- there are no partial successes, Costs, or Criticals for Tests.
+Tests are binary - there are no partial successes, Costs, or Critical Hits for Tests.
 
 ### Reaction Scores
 
@@ -75,5 +75,3 @@ A protagonist’s Reaction Score for a Test depends on their ranks in the most r
 ### Open or Secret Tests
 
 The referee may choose to roll Difficulty in secret when the protagonist should not immediately know whether they succeeded or failed, or even if a Test occurred at all.
-
----

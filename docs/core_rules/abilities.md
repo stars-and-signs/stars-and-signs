@@ -4,11 +4,7 @@ layout: page
 
 # Abilities
 
-Every protagonist’s capabilities are defined by their nine Abilities. Each Ability captures a broad mode of capability.
-
-Abilities are grouped into three categories \- Physical, Mental, and Emotional. These categories matter for certain features.
-
-The nine Abilities are:
+Every protagonist’s capabilities are defined by their nine Abilities. Each Ability captures a broad mode of capability. Abilities are grouped into three categories: Physical, Mental, and Emotional. The nine Abilities are listed below.
 
 ## List of Abilities and Skills
 
@@ -39,14 +35,12 @@ Each protagonist has a rank of 1 to 10 in each of the nine Abilities. Protagonis
 An Ability’s rank determines the Ability die added to Checks that use that Ability:
 
 | Ability Rank | Ability Die |
-| :---- | :---- |
-| 1 | d0 |
-| 2-3 | d4 |
-| 4-5 | d6 |
-| 6-7 | d8 |
-| 8-9 | d10 |
-| 10 | d12 |
+| :----------- | :---------- |
+| 1            | d0          |
+| 2-3          | d4          |
+| 4-5          | d6          |
+| 6-7          | d8          |
+| 8-9          | d10         |
+| 10           | d12         |
 
 Like Circumstance dice, features can grant Boons and Banes to Ability die when making Checks that use that die.
-
----

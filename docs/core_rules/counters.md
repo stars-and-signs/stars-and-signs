@@ -54,7 +54,7 @@ Used to track finite resources that diminish with use. When a Resource Counter f
 * Magical energy  
 * Favors and reputation
 
-Filling a Resource Counter is usually refered to as "spending" the resource that the Counter represents. For example, a protagonist has an Ammunition Resource Counter that has 5 slots worth 5 Ammunition each. They use their Gun Asset, which requires spending 1d10 Ammunition. They roll 7, meaning they need to fill 2 Ammunition slots to use the Asset.
+Filling a Resource Counter is usually referred to as "spending" the resource that the Counter represents. For example, a protagonist has an Ammunition Resource Counter that has 5 slots worth 5 Ammunition each. They use their Gun Asset, which requires spending 1d10 Ammunition. They roll 7, meaning they need to fill 2 Ammunition slots to use the Asset.
 
 ### Timer
 
@@ -65,7 +65,3 @@ Similar to a Danger or Defeat Counter but measures the approach of a neutral eve
 Used to track specific items, such as Memories or Assets. Unlike other Counter slots, which are either filled or unfilled, each Inventory slot holds a specific game object which should be tracked.
 
 All Inventory Counter slots are worth one item.
-
----
-
-[← Back to Table of Contents](../core_rules) | [Next: Actions →](core_rules/02-actions.md)

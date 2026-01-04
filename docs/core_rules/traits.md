@@ -53,4 +53,4 @@ A protagonist may compel a Trait to clear 1 filled Hope slot. To compel a Trait,
 
 Protagonists often create Temporary Traits through successful Actions during play. Traits created this way are Neutral and come with one free invoke, which the creating protagonist may use or give to any other protagonist.
 
-Many features enhance created Triats by adding extra free invokes, granting additional effects when invoked, or upgrading their alignment to Positive.
+Many features enhance created Traits by adding extra free invokes, granting additional effects when invoked, or upgrading their alignment to Positive.

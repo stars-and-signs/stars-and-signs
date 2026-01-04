@@ -31,6 +31,3 @@ If both Boons and Banes apply to the same die or dice pool, first subtract the n
 * \+3B Circumstance and \-1B Circumstance results in \+2B Circumstance, or roll 4d10 and take the highest two dice.  
 * \+2B Circumstance and \-5B Circumstance results in \-3B Circumstance, or roll 5d10 and take the lowest two dice.  
 * \+4B Circumstance and \-4B Circumstance results in \+0B Circumstance, or roll 2d10 and take the result.
-
----
-

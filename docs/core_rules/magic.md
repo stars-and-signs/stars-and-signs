@@ -82,7 +82,7 @@ Protagonists can harness the power of friendship. When they compel a Connection 
 
 ### Emotions
 
-Protagonists gain power from their Emotions. While Transformed, a protagonist may enter a Mood to clear a number of filled Energy slots up to half their ranks in the Ability associatted with that Mood. Excess cleared slots may be converted into Temporary Energy slots.
+Protagonists gain power from their Emotions. While Transformed, a protagonist may enter a Mood to clear a number of filled Energy slots up to half their ranks in the Ability associated with that Mood. Excess cleared slots may be converted into Temporary Energy slots.
 
 ### Beliefs
 
@@ -122,5 +122,3 @@ Despite this, a Wish has limitations. It cannot undo the effects of another Wish
 Charms are small magical trinkets that a protagonist can wear even outside their Transformation. Charms often act as Assets and may convey subtle magical powers that can be used unnoticed in the mundane world. Some Talents grant the ability to create Charms.
 
 Optionally, the referee may grant protagonists materials which they can use to craft Charms without having a Talent.
-
----

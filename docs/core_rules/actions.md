@@ -7,7 +7,7 @@ aliases:
 
 # Actions
 
-In Stars & Signs, every attempt to change the situation or act on opposition is an Action. Actions are defined by the intent behind them, not the methods used. Two protagonists might take different approaches \- violence, intimidation, or magical control \- but if their goals are the same, they’re taking the same Action type.
+In Stars & Signs, every attempt to change the situation or act on opposition is an Action. Actions are defined by the intent behind them, not the methods used. Two protagonists might take different approaches - violence, intimidation, or magical control - but if their goals are the same, they’re taking the same Action type.
 
 ## **Declaring an Action**
 
@@ -71,7 +71,7 @@ To gather information not currently known.
 
 To move a person, including yourself, or object through space under adverse conditions.
 
-**Examples:** pulling an ally from danger, navigating a narrow cliffside, chasing down a suspect.
+**Examples:** pulling an ally from danger, navigating a narrow ledge, chasing down a suspect.
 
 ## **Action Type Triggers**
 
@@ -105,5 +105,3 @@ For example, setting off fireworks to distract guards while creating cover for a
 * If the goal is to let allies pass unseen, the Action is Obscure.  
 * If the goal is to unnerve and surprise the guard, the Action is Hinder.  
 * If the fireworks serve as both, the referee may request multiple Actions for each objective.
-
----

@@ -37,7 +37,7 @@ Example compels: dropping something heavy, staggering, fainting, needing a nap.
 
 Jittery, unsteady, shaky, overly cautious.
 
-Example compels: fumbling an object, hesitating at the wrong moment, misstepping.
+Example compels: fumbling an object, hesitate at a critical moment, or make a misstep.
 
 ### Sensitive (Endurance)
 

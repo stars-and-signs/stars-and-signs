@@ -13,5 +13,3 @@ layout: page
 * **Upgrade.** Increase a value by 1. A value can only be upgraded by one source at a time.
 * **Refresh.** If a protagonist’s resource is refreshed, they regain any of that resource that they spent. If they have more of that resource than their refresh value, they lose the excess.  
 * **Regain.** A protagonist can often regain a limited amount of a resource. The amount of a resource gained this way cannot make the protagonist exceed their refresh value in that resource. Any excess is lost.
-
----

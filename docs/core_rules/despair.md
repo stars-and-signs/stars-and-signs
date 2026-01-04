@@ -35,5 +35,3 @@ A Broken protagonist may be rescued by having an ally compel their Connection to
 ### Vulnerability
 
 If a Broken protagonist would suffer Despair, they instead gain a Wound with a number of ranks equal to the number of Despair slots they would have filled. The Wound is of the same type as the source of the Despair. For example, a Broken protagonist suffering 8 Despair from a physical source suffers a rank 2 Physical Wound. See Wounds below for more information.
-
----

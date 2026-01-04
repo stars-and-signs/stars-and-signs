@@ -24,5 +24,3 @@ layout: page
 * The Summer Hikaru Died
 * Summertime Render
 * Supernatural
-
----

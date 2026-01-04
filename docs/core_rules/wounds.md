@@ -17,7 +17,7 @@ Wounds occur when suffering Despair while Broken or when suffering Fallout while
 
 ## Recovery
 
-Wounds can be cleared through use of the Bolster Action. A protagonist can atttempt to clear their own Wounds or the Wounds of another protagonist in this way. Clearing a Wound has a Potency equal to the Wound's rank.
+Wounds can be cleared through use of the Bolster Action. A protagonist can attempt to clear their own Wounds or the Wounds of another protagonist in this way. Clearing a Wound has a Potency equal to the Wound's rank.
 
 Clearing a Wound is an Extended Challenge with a number of slots equal to the Wound's Potency.
 
@@ -28,7 +28,7 @@ The result of a protagonist's Bolster Check made to clear a Wound is as follows:
 * **Miss.** The protagonist or their target suffers Fallout.
 * **Graze.** The protagonist makes half of 1d10 Progress towards clearing the Wound.
 * **Hit.** The protagonist makes 1d10 Progress towards clearing the Wound.
-* **Critical.** The prottagonist makes 2d10 Progress towards clearing the Wound.
+* **Critical.** The protagonist makes 2d10 Progress towards clearing the Wound.
 
 For example, a rank 2 Physical Wound has 2 Progress slots. A protagonist that Hits on a Bolster Check made to clear this Wound using Medical Supplies (Potency 2) makes 1d10 Progress. They roll 6, which clears 2 Progress slots and clears the Wound.
 
