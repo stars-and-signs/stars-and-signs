@@ -4,7 +4,7 @@ layout: default
 
 # Protagonist Creation
 
-To create a protagonist, follow these steps in order. You can use the [protagonist creation worksheet](<../../pdfs/Stars & Signs Protagonist Creation Worksheet.pdf>) to track your work.
+To create a protagonist, follow these steps in order. You can use the [protagonist creation worksheet](<../../pdfs/Stars & Signs Protagonist Creation Worksheet.pdf>) to track your work and record your statistics on your [character sheet](<../../pdfs/Stars & Signs Character Sheet 2026.pdf>).
 
 ## Identity & Motivation
 
