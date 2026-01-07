@@ -18,7 +18,6 @@ A Transformed protagonist remains in this state until one of the following condi
 
 * They become Consumed, Broken, or are Defeated.
 * They reach a Minor Milestone.
-* They fill their final Energy slot without clearing it.
 * They choose to end their Transformation (no Action required).
 
 When the Transformation ends, a protagonist's Relic vanishes, their Regalia reverts to their normal clothing, and they lose access to their Magical Talents.
@@ -32,6 +31,10 @@ While Transformed, a protagonist may freely manipulate the subjects of their Mag
 A protagonist does not need to invoke a Magical Affinity in order to manipulate it. For example, a protagonist with Ice Magic could create an ice slick on the ground without invoking Ice Magic; but their Check to trip someone using it could benefit from invoking their Ice Magic Affinity, as normal.
 
 Protagonists gain ranks in Magical Affinities when they are created and then may increase their ranks in these Affinities when they Advance their Traits.
+
+### Magical Invokes
+
+While Transformed, a protagonist can spend 1 Energy and invoke one of their Magical Affinities to create a Temporary Neutral Trait with a free invoke (no Action required). The description of this Trait must be related to the invoked Affinity.
 
 ## Relic
 

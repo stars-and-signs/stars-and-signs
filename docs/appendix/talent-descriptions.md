@@ -34,8 +34,68 @@ layout: default
 
 ## Magical Projectiles
 
+(Magical Talent)
+
 **Talent slot requirement.** Violence
 
-**Relic Function.** When you use your Relic for Violence, you can launch projectiles out to a range of 15 meters (Range 2).
+**Projectile Relic.** When you use your Relic for Violence, you can launch projectiles out to a range of 15 meters (Range 2).
 
 **Might rank increase.** When you take this Talent, you gain +1 Might rank.
+
+## Magical Burst
+
+(Magical Talent)
+
+**Talent slot requirement.** Violence
+
+**Area of Effect.** When you use your Relic for Violence, you can affect targets of your choice in a room-sized area (Scope 1).
+
+**Might rank increase.** When you take this Talent, you gain +1 Might rank.
+
+## Skill Transmutation
+
+(Magical Talent)
+
+**Talent slot requirement.** Any, the chosen Skill becomes the "Replacing Skill" for this Talent
+
+**Swap Skill.** Choose any Skill other than the Replacing Skill, it becomes the Replaced Skill. Whenever you use the Replaced Skill for a Check or Test while Transformed, you may replace the Skill modifier and Ability die for the Replaced Skill with the Replacing Skill's modifier and its corresponding Ability die.
+
+**Ability rank increase.** When you take this Talent, you gain +1 rank in the Ability associated with the Replacing Skill chosen.
+
+**Repeatable.** You may take this Talent any number of times. When you choose this Talent again, choose a different combination of Skills.
+
+## Magical Absorption
+
+(Magical Talent)
+
+**Talent slot requirement.** Endurance or Resolve
+
+**Despair Absorption** When you fill one or more Despair slots, you can expend 1 Energy to reduce the number of Despair slots filled by 1.
+
+**Ability rank increase.** When you take this Talent, you gain +1 rank in the Talent slot Skill's Ability.
+
+**Repeatable.** You may take this Talent up to five times. When you expend Energy to reduce Despair slots filled, reduce the number of Despair slots filled by a number equal to the times you have taken this Talent.
+
+## Magical Asset
+
+(Magical Talent)
+
+**Talent slot requirement.** Any, the chosen Skill becomes the "Source Skill" for this Talent
+
+**Asset**. Choose an Action type. Your Relic gains a Function for the chosen Action type with a Quality equal to the Source Skill's modifier.
+
+**Ability rank increase.** When you take this Talent, you gain +1 rank in the Ability associated with the Source Skill chosen.
+
+**Repeatable.** You may take this Talent any number of times. When you choose this Talent again, choose a different combination of Skill and Action type.
+
+## After Effects
+
+(Magical Talent)
+
+**Talent slot requirement.** Any, the chosen Skill becomes the "Source Skill" for this Talent
+
+**Bonus Trait.** Choose one of your Magical Affinities and describe a Temporary Neutral Trait related to that Magical Affinity. Whenever you invoke the chosen Affinity for a successful Check using the Source Skill, create the described Trait with a free invoke.
+
+**Ability rank increase.** When you take this Talent, you gain +1 rank in the Ability associated with the Source Skill chosen.
+
+**Repeatable.** You may take this Talent any number of times. When you choose this Talent again, create a different Trait.
