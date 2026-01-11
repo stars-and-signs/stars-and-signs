@@ -25,13 +25,13 @@ When a protagonist gains a rank in their Class, they gain the features for their
 ## Class Descriptions
 
 |Class|Description|Core Features|
-|---|---|---|
-|[Brute](docs/classes/brute.md)|Excels at physical challenges|Aggressive, Aura|
-|Confidant||Gossip, Friendly|
-|Enthusiast||Hyperfixations, Crafty|
-|Icon||Captivating, Eclectic|
-|Patrician||Endowed, Connected|
-|Prodigy||Inspirational, Competent|
-|Seeker|Excels at mental challenges.|Observant, Archivist|
-|Stray||Lucky, Resourceful|
-|Survivor||Prepared, Tenacious|
+|---|---|---|---|
+|[Brute](docs/classes/brute.md)|Dominates scenes through direct action for big impact at costs to their own wellbeing.|Aggressive, Aura|
+|Confidant|Social tacticians that manipulate information and morale to generate leverage.|Gossip, Encouraging|
+|Enthusiast|Obsessive problem solvers with an uncanny knack for bringing everything back to their special interest.|Hyperfixated, Creative|
+|Icon|Spotlight controllers that command attention and slip effortlessly between personas.|Captivating, Eclectic|
+|Patrician|Operators that solve problems with resources and influence by pulling strings.|Endowed, Connected|
+|Prodigy|Flexible overperformers that lift others up to ensure success.|Inspirational, Competent|
+|Seeker|Dogged information collectors that glean hidden insights.|Observant, Archivist|
+|Stray|Scavengers that survive by taking risks and seizing opportunities while slipping through the cracks.|Lucky, Resourceful|
+|Survivor|Durable specialists that take the pressure of others and generate back-up plans to turn failure into success.|Prepared, Tenacious|

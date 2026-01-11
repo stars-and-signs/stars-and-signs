@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Talents
+# Talent Descriptions
 
 ## Brawler
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Tough
+# Brute
 
 ## Class Agendas
 
