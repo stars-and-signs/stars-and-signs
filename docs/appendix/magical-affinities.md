@@ -43,3 +43,4 @@ layout: default
 * Purification Magic (Light and Water)  
 * Speed Magic (Air and Light)  
 * Corrosion Magic (Water and Dark)
+* Card Magic (Artifice and Spirit)
