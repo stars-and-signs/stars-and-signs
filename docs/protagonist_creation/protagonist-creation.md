@@ -14,7 +14,7 @@ Give your protagonist a name and describe their pronouns. These may be placehold
 
 ### Aspects
 
-Design a personality for your protagonist by creating a Heart, Mask, and Shadow Aspect.
+Design a personality for your protagonist by creating a Heart, Mask, and Shadow [Aspect](../core_rules/protagonist-traits#aspects).
 
 If you need inspiration, draw three tarot cards at random, assigning one to your Heart, your Mask, and your Shadow. Use the meaning of these cards to generate your Aspects.
 
@@ -38,11 +38,11 @@ Choose three different[Skills](../core_rules/skills). Gain 2 ranks in each chose
 
 ### School Affinities
 
-Choose three [Affinities](../core_rules/protagonist-traits#affinities) from the Academic, Sports, and Artistic [Affinities lists](../affinity-lists) in any combination. You gain 2 ranks in each of the chosen Affinities.
+Choose three [Affinities](../core_rules/protagonist-traits#affinities) from the Academic, Sports, and Artistic [Affinities lists](../appendix/affinity-lists.md) in any combination. You gain 2 ranks in each of the chosen Affinities.
 
 ### Extracurricular Affinities
 
-Choose two Affinities from the Otaku, Outdoors, Social, and Practical Affinity lists in any combination. You gain 2 ranks in each of the chosen Affinities.
+Choose two Affinities from the Crime, Otaku, Outdoors, Social, and Practical Affinity lists in any combination. You gain 2 ranks in each of the chosen Affinities.
 
 ### Background Anchor
 
@@ -70,10 +70,6 @@ Choose three adjectives from the following table to describe your protagonist's 
 
 Choose an Affinity from the Cultures list. You gain 3 ranks in the chosen Affinity.
 
-### Relationship Anchor
-
-Create an Anchor based on a relationship you have with another character or group of characters. Determine the nature of this relationship by determining if your Light or Dark Mana is higher. If your Light is higher, the relationship is positive. Conversely, if your Dark is higher, the relationship is adversarial. If they are equal, the relationship is fraught and alternates between the two.
-
 ## Astrological Sign
 
 Each protagonist has a sun, moon, and ascendent astrological sign. This can be chosen by considering the protagonist’s date of birth or by choosing them. For each of their signs, the protagonist gains \+1 ranks to two different [Abilities](../core_rules/abilities) and one Mana, as shown in the Sign Bonuses Table.
@@ -100,7 +96,7 @@ Each protagonist has a sun, moon, and ascendent astrological sign. This can be c
 |                 | Water                | Dark                  | Spirit                |
 | **Sagittarius** | Might; Intellect     | Might; Guile          | Intellect; Guile      |
 |                 | Fire                 | Light                 | Nature                |
-| **Capricorn**   | Endurance; Intellect | Might; Precision      | Might; Will           |
+| **Capricorn**   | Endurance; Intellect | Might; Grace          | Might; Will           |
 |                 | Earth                | Dark                  | Spirit                |
 | **Aquarius**    | Intellect; Cunning   | Intellect; Empathy    | Endurance; Cunning    |
 |                 | Air                  | Light                 | Nature                |
@@ -177,6 +173,12 @@ For each other protagonist, compare your Compatibility Element to theirs. If you
 | **Earth**                 | Water          | Air              |
 | **Fire**                  | Air            | Water            |
 | **Water**                 | Earth          | Air              |
+
+### Relationship Anchor
+
+Create an Anchor based on a relationship you have with another non-protagonist character or group of non-protagonist characters.
+
+Determine the nature of this relationship by determining if your Light or Dark Mana is higher. If your Light is higher, the relationship is positive. Conversely, if your Dark is higher, the relationship is adversarial. If they are equal, the relationship is fraught and alternates between the two.
 
 ## Magic
 
