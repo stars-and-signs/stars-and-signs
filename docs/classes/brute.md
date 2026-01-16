@@ -18,7 +18,7 @@ When you Hit or Critical Hit on an Action using a Physical Ability, you can spen
 
 ### Aura
 
-You gain a Resource Counter named "Aura". The Counter has a number of slots equal to the sum of your Might, Guile, and Confidence ranks divided by 3. Each slot is worth 1 Aura. Clear all filled slots in this Counter on a Major Milestone.
+You gain a Resource Counter named "Aura". The Counter has a number of slots equal to the sum of your Might, Guile, and Confidence ranks divided by 3. Clear all filled slots in this Counter on a Major Milestone.
 
 When you take the Hinder or Influence Action, you can fill up to five unfilled Aura slots. For each filled slot, you gain +1B Circumstance on the Check.
 
