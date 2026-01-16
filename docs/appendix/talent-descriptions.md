@@ -116,6 +116,8 @@ If the summon gains any Temporary Traits or Wounds, clear them when it is next s
 
 **Range.** Your summon can move independently from you and has the same senses as you. It conveys what it senses to you via telepathy. It can move at a walking pace. It can be up to 10 meters away from you at a time. If it attempts to move further away, it reappears at the nearest point within 10 meters.
 
+**Ability rank increase.** When you take this Talent, you gain +1 rank in the Ability associated with the Source Skill chosen.
+
 **Repeatable.** You may take this Talent any number of times. When you choose this Talent again, you may choose one of your existing summons or create a new one. If you choose an existing summon, you may choose two additional Action types that summon can perform. The Energy cost of summoning it and its Integrity likewise increases.
 
 ## Swarmcaller
@@ -130,11 +132,15 @@ If the summon gains any Temporary Traits or Wounds, clear them when it is next s
 
 **Range.** Whenever you take an Action, you can move one of your minions to a location within 10 meters of yourself. You can make a Utilize Action using the Source Skill for this Talent to move any number of your minions on a success.
 
+**Ability rank increase.** When you take this Talent, you gain +1 rank in the Ability associated with the Source Skill chosen.
+
 ## Called It
 
 **Talent slot requirement.** Intuition
 
 **Replace Die.** At each Minor Milestone, roll a d10, called your "Lucky Die". Whenever you roll one or more d10s, you may replace up to one of those d10s with the result of your Lucky Die. Once you use this feature in this way, you cannot do so again until the next Minor Milestone.
+
+**Confidence rank increase.** When you take this Talent, you gain +1 Intuition rank.
 
 ## Quick
 
@@ -171,3 +177,11 @@ If the summon gains any Temporary Traits or Wounds, clear them when it is next s
 **Extra.** When you score a Hit or better on a Guile (Manipulation) Check, if your goal is to request a favor, you gain an Extra.
 
 **Guile rank increase.** When you take this Talent, you gain +1 Guile rank.
+
+## Remote Viewing
+
+**Talent slot requirement.** Awareness or Research, the chosen Skill becomes the "Source Skill" for this Talent.
+
+**Remote Viewing**. While Transformed, you can remotely view a location you’re aware of using your sight out to a range of 50 m.
+
+**Ability rank increase.** When you take this Talent, you gain +1 rank in the Ability associated with the Source Skill chosen.
